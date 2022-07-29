@@ -1,0 +1,19 @@
+#include "mywidget.h"
+
+#include <QApplication>
+
+int main(int argc, char *argv[])
+{
+    QApplication a(argc, argv);
+    MyWidget w;
+
+    //设置大小
+    w.resize(800,480);
+    //设置显示位置
+    w.move(400,200);
+    //设置窗口标题
+    w.setWindowTitle("英雄联盟");
+
+    w.show();
+    return a.exec();
+}
