@@ -1,4 +1,5 @@
+
 QT += widgets
 
-SOURCES +=\
+SOURCES += \
     main.cpp
