@@ -11,19 +11,23 @@ MyPushButton::MyPushButton(QWidget *parent)
 
     //连接信号和槽
     //QObject::connect(btn,SIGNAL(clicked()),this,SLOT(btn_clicked()));
-    //QObject::connect(btn,&QPushButton::clicked,this,&MyPushButton::btn_clicked);
-    QObject::connect(btn,&QPushButton::clicked,this,[&](){
-        qDebug()<<"Lambda表达式slot";
-    });
+//    QObject::connect(btn,&QPushButton::clicked,this,&MyPushButton::btn_clicked);
+    //(对象，信号，接收对象的函数，槽函数是)
+    QObject::connect(btn,&QPushButton::clicked,this,[&](){  //槽函数是匿名函数的写法
 
-    //连接信号和信号
-    QObject::connect(this,SIGNAL(send_sig(int)),btn,SIGNAL(clicked()));
-    QObject::connect(this,&MyPushButton::send_sig,this,[&](int n){
-        qDebug()<<"num="<<n;
+        qDebug()<<"Lambda表达式slot0---";
     });
 
     //代码发射信号
     emit send_sig(100);
+
+    //连接信号和信号  自己传给自己
+    QObject::connect(this,SIGNAL(send_sig(int)),btn,SIGNAL(clicked()));
+//    QObject::connect(this,&MyPushButton::send_sig,this,[&](int n){
+//        qDebug()<<"num="<<n;
+//    });
+
+
 }
 
 MyPushButton::~MyPushButton()

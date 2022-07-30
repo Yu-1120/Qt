@@ -25,8 +25,8 @@ private:
     //垂直布局管理器
     //QHBoxLayout *layout;
     //垂直布局管理器
-    //QVBoxLayout *layout;
+    QVBoxLayout *layout;
     //网格布局管理器
-    QGridLayout *layout;
+//    QGridLayout *layout;
 };
 #endif // MYLAYOUT_H

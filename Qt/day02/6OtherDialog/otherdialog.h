@@ -15,6 +15,9 @@ public:
 
 private:
     QLabel *lab;
-    QPushButton *btn;
+
+     QPushButton *btn;
+      QPushButton *btn1;
+       QPushButton *btn2;
 };
 #endif // OTHERDIALOG_H

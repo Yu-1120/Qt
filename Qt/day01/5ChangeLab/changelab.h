@@ -17,5 +17,7 @@ private:
     QLabel *lab;
     QPushButton *red_btn;
     QPushButton *green_btn;
+    QPushButton *blue_btn;
+
 };
 #endif // CHANGELAB_H

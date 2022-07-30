@@ -11,13 +11,13 @@ MultiLayout::MultiLayout(QWidget *parent)
     BB = new QPushButton("BB",this);
     CC = new QPushButton("CC",this);
 
-    //初始化布局管理器
+    //initialize layout supervisor
     hlayout1 = new QHBoxLayout;
     hlayout2 = new QHBoxLayout;
-    hlayout3 = new QHBoxLayout;
-    layout = new QVBoxLayout;
+    hlayout3 = new QHBoxLayout; //水平
+    layout = new QVBoxLayout;  //垂直
 
-    //添加窗口部件到布局管理器
+    //添加窗口部件到布局管理器  add windows in layout supervisor
     hlayout1->addWidget(lab1);
     hlayout1->addWidget(btn1);
     hlayout2->addWidget(lab2);
@@ -31,7 +31,7 @@ MultiLayout::MultiLayout(QWidget *parent)
     layout->addLayout(hlayout3);
 
     //设置窗口布局管理器
-    this->setLayout(layout);
+    this->setLayout(layout);//vertical set up enter
 }
 
 MultiLayout::~MultiLayout()
