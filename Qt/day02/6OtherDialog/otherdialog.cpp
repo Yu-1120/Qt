@@ -23,13 +23,6 @@ OtherDialog::OtherDialog(QWidget *parent)
     QObject::connect(btn,&QPushButton::clicked,this,[&](){
 
 
-        //QString str = QInputDialog::getText(this,"说明信息","请输入你的简介");
-        //int num = QInputDialog::getInt(this,"说明信息","请输入你的身高",170);
-        //double num = QInputDialog::getDouble(this,"说明信息","请输入你的身高");
-        //qDebug()<<str;
-        //lab->setText(str);
-        //lab->setNum(num);
-
         bool flag = true;
         QFont f = QFontDialog::getFont(&flag,this);
         lab->setFont(f);
