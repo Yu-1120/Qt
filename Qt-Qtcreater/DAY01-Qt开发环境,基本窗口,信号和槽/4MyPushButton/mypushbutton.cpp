@@ -38,6 +38,7 @@ MyPushButton::~MyPushButton()
 void MyPushButton::btn_clicked()
 {
     //qDebug是Qt的调试输出，可以像printf和cout一样使用
+    //qt里的cout
     qDebug()<<"btn_clicked";
 }
 

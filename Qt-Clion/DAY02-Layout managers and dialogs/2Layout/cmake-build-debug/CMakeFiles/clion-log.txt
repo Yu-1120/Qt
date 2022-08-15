@@ -1,0 +1,4 @@
+"D:\CLion\CLion 2022.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/CLion/CLion 2022.1/bin/ninja/win/ninja.exe" -G Ninja -S C:\Users\11868\Documents\GitHub\Qt\Qt-Clion\2Layout -B C:\Users\11868\Documents\GitHub\Qt\Qt-Clion\2Layout\cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/2Layout/cmake-build-debug

@@ -1,0 +1,21 @@
+# ninja log v5
+11	1009	0	CMakeFiles/untitled_autogen	45e3a1c2c941c59a
+1018	3582	6822803262431192	CMakeFiles/untitled.dir/main.cpp.obj	71ff865b123a3aa7
+11	1009	0	untitled_autogen/mocs_compilation.cpp	45e3a1c2c941c59a
+11	1009	0	untitled_autogen/include/ui_mainwindow.h	45e3a1c2c941c59a
+1011	3324	6822803259809054	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.obj	1cf44a6daba072e8
+1026	3591	6822803262546276	CMakeFiles/untitled.dir/mainwindow.cpp.obj	f4500baae5294068
+3631	3968	6822803266272975	untitled.exe	879b2e99851b8bba
+11	1009	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/2Layout-work/cmake-build-debug/untitled_autogen/mocs_compilation.cpp	45e3a1c2c941c59a
+11	1009	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/2Layout-work/cmake-build-debug/untitled_autogen/include/ui_mainwindow.h	45e3a1c2c941c59a
+11	1083	0	CMakeFiles/untitled_autogen	c9322726f14a67d2
+11	1083	0	untitled_autogen/mocs_compilation.cpp	c9322726f14a67d2
+11	1083	0	untitled_autogen/include/ui_mainwindow.h	c9322726f14a67d2
+11	1083	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/3MultiLayout/cmake-build-debug/CMakeFiles/untitled_autogen	c9322726f14a67d2
+11	1083	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/3MultiLayout/cmake-build-debug/untitled_autogen/mocs_compilation.cpp	c9322726f14a67d2
+11	1083	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/3MultiLayout/cmake-build-debug/untitled_autogen/include/ui_mainwindow.h	c9322726f14a67d2
+1099	2881	6822807375544293	CMakeFiles/untitled.dir/multilayout.cpp.obj	93658992cd287d
+1084	2889	6822807375634025	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.obj	483e5ec0ae1f049e
+1091	3005	6822807376809016	CMakeFiles/untitled.dir/main.cpp.obj	d20a0063619d9028
+1106	3050	6822807377265558	CMakeFiles/untitled.dir/mainwindow.cpp.obj	e699f72dc303e128
+3051	3325	6822807379964983	untitled.exe	c0e1ce3e36ac43af
