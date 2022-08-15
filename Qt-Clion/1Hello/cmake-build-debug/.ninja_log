@@ -1,0 +1,27 @@
+# ninja log v5
+7	119	0	CMakeFiles/untitled_autogen	3afb4c89cf109d67
+7	119	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/untitled/cmake-build-debug/untitled_autogen/include/ui_mainwindow.h	3afb4c89cf109d67
+120	2129	6822568718516245	CMakeFiles/untitled.dir/main.cpp.obj	33527513a3379f0a
+7	119	0	untitled_autogen/mocs_compilation.cpp	3afb4c89cf109d67
+7	119	0	untitled_autogen/include/ui_mainwindow.h	3afb4c89cf109d67
+630	2329	6822554717526326	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.obj	d9e96a4a52e85a11
+884	3610	6822550809167124	CMakeFiles/untitled.dir/mainwindow.cpp.obj	353efca46f639aac
+7	119	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/untitled/cmake-build-debug/CMakeFiles/untitled_autogen	3afb4c89cf109d67
+2129	2371	6822568720882853	untitled.exe	77af7a3c835b41fc
+7	119	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/untitled/cmake-build-debug/untitled_autogen/mocs_compilation.cpp	3afb4c89cf109d67
+97	1693	6822559832408188	CMakeFiles/untitled.dir/mywidget.cpp.obj	59b359e6b01274dd
+7	115	0	CMakeFiles/untitled_autogen	3afb4c89cf109d67
+7	115	0	untitled_autogen/mocs_compilation.cpp	3afb4c89cf109d67
+7	115	0	untitled_autogen/include/ui_mainwindow.h	3afb4c89cf109d67
+7	115	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/untitled/cmake-build-debug/CMakeFiles/untitled_autogen	3afb4c89cf109d67
+7	115	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/untitled/cmake-build-debug/untitled_autogen/mocs_compilation.cpp	3afb4c89cf109d67
+7	115	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/untitled/cmake-build-debug/untitled_autogen/include/ui_mainwindow.h	3afb4c89cf109d67
+116	2322	6822570344055998	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.obj	d9e96a4a52e85a11
+123	9423	6822570414986461	CMakeFiles/untitled.dir/main.cpp.obj	33527513a3379f0a
+9428	9833	6822570419056461	untitled.exe	491f8162947e4ad2
+14	130	0	CMakeFiles/untitled_autogen	3afb4c89cf109d67
+14	130	0	untitled_autogen/mocs_compilation.cpp	3afb4c89cf109d67
+14	130	0	untitled_autogen/include/ui_mainwindow.h	3afb4c89cf109d67
+14	130	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/untitled/cmake-build-debug/CMakeFiles/untitled_autogen	3afb4c89cf109d67
+14	130	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/untitled/cmake-build-debug/untitled_autogen/mocs_compilation.cpp	3afb4c89cf109d67
+14	130	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/untitled/cmake-build-debug/untitled_autogen/include/ui_mainwindow.h	3afb4c89cf109d67
