@@ -1,0 +1,23 @@
+# ninja log v5
+10	114	0	CMakeFiles/untitled_autogen	4b8662a3b06a9a4
+10	114	0	E:/untitled/cmake-build-debug/untitled_autogen/include/ui_mainwindow.h	4b8662a3b06a9a4
+665	2322	6821970116908777	CMakeFiles/untitled.dir/main.cpp.obj	1c4d762b1d7a1fe3
+10	114	0	untitled_autogen/mocs_compilation.cpp	4b8662a3b06a9a4
+10	114	0	untitled_autogen/include/ui_mainwindow.h	4b8662a3b06a9a4
+658	2166	6821970115316911	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.obj	16c891a48a127856
+10	114	0	E:/untitled/cmake-build-debug/CMakeFiles/untitled_autogen	4b8662a3b06a9a4
+10	114	0	E:/untitled/cmake-build-debug/untitled_autogen/mocs_compilation.cpp	4b8662a3b06a9a4
+674	2345	6821970117131570	CMakeFiles/untitled.dir/mainwindow.cpp.obj	22cefb5afcfa4bda
+2345	2631	6821970119942641	untitled.exe	491f8162947e4ad2
+21	551	0	CMakeFiles/untitled_autogen	4b8662a3b06a9a4
+21	551	0	untitled_autogen/mocs_compilation.cpp	4b8662a3b06a9a4
+21	551	0	untitled_autogen/include/ui_mainwindow.h	4b8662a3b06a9a4
+21	551	0	E:/untitled/cmake-build-debug/CMakeFiles/untitled_autogen	4b8662a3b06a9a4
+21	551	0	E:/untitled/cmake-build-debug/untitled_autogen/mocs_compilation.cpp	4b8662a3b06a9a4
+21	551	0	E:/untitled/cmake-build-debug/untitled_autogen/include/ui_mainwindow.h	4b8662a3b06a9a4
+12	193	0	CMakeFiles/untitled_autogen	4b8662a3b06a9a4
+12	193	0	untitled_autogen/mocs_compilation.cpp	4b8662a3b06a9a4
+12	193	0	untitled_autogen/include/ui_mainwindow.h	4b8662a3b06a9a4
+12	193	0	E:/untitled/cmake-build-debug/CMakeFiles/untitled_autogen	4b8662a3b06a9a4
+12	193	0	E:/untitled/cmake-build-debug/untitled_autogen/mocs_compilation.cpp	4b8662a3b06a9a4
+12	193	0	E:/untitled/cmake-build-debug/untitled_autogen/include/ui_mainwindow.h	4b8662a3b06a9a4
