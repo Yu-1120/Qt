@@ -1,0 +1,19 @@
+# ninja log v5
+9	704	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY02-Layout managers and dialogs/6OtherDialog-Work/cmake-build-debug/untitled_autogen/mocs_compilation.cpp	b6a1f69d905676e9
+705	2875	6823261382870767	CMakeFiles/untitled.dir/main.cpp.obj	6224cf27ac788fc8
+9	704	0	CMakeFiles/untitled_autogen	b6a1f69d905676e9
+2	512	6823261405613385	build.ninja	3869f5e99dd6ef3c
+9	704	0	untitled_autogen/mocs_compilation.cpp	b6a1f69d905676e9
+9	704	0	untitled_autogen/include/ui_mainwindow.h	b6a1f69d905676e9
+712	2678	6823261380892066	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.obj	ae1850a57f6272fd
+720	2855	6823261382680918	CMakeFiles/untitled.dir/mainwindow.cpp.obj	4c6a14cd770a3f96
+3093	3345	6823261387533840	untitled.exe	8f42851a72a7de1b
+9	704	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY02-Layout managers and dialogs/6OtherDialog-Work/cmake-build-debug/CMakeFiles/untitled_autogen	b6a1f69d905676e9
+9	704	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY02-Layout managers and dialogs/6OtherDialog-Work/cmake-build-debug/untitled_autogen/include/ui_mainwindow.h	b6a1f69d905676e9
+728	3093	6823261385048298	CMakeFiles/untitled.dir/otherdialog.cpp.obj	86f5b89e0188be48
+5	86	0	CMakeFiles/untitled_autogen	b6a1f69d905676e9
+5	86	0	untitled_autogen/mocs_compilation.cpp	b6a1f69d905676e9
+5	86	0	untitled_autogen/include/ui_mainwindow.h	b6a1f69d905676e9
+5	86	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY02-Layout managers and dialogs/6OtherDialog-Work/cmake-build-debug/CMakeFiles/untitled_autogen	b6a1f69d905676e9
+5	86	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY02-Layout managers and dialogs/6OtherDialog-Work/cmake-build-debug/untitled_autogen/mocs_compilation.cpp	b6a1f69d905676e9
+5	86	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY02-Layout managers and dialogs/6OtherDialog-Work/cmake-build-debug/untitled_autogen/include/ui_mainwindow.h	b6a1f69d905676e9

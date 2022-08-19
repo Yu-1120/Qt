@@ -1,0 +1,4 @@
+C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY02-Layout managers and dialogs/6OtherDialog-Work/cmake-build-debug/CMakeFiles/untitled.dir
+C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY02-Layout managers and dialogs/6OtherDialog-Work/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY02-Layout managers and dialogs/6OtherDialog-Work/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY02-Layout managers and dialogs/6OtherDialog-Work/cmake-build-debug/CMakeFiles/untitled_autogen.dir

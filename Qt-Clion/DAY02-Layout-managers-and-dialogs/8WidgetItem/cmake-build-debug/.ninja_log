@@ -1,0 +1,25 @@
+# ninja log v5
+11	1009	0	CMakeFiles/untitled_autogen	45e3a1c2c941c59a
+1018	3582	6822803262431192	CMakeFiles/untitled.dir/main.cpp.obj	71ff865b123a3aa7
+11	1009	0	untitled_autogen/mocs_compilation.cpp	45e3a1c2c941c59a
+11	1009	0	untitled_autogen/include/ui_mainwindow.h	45e3a1c2c941c59a
+1011	3324	6822803259809054	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.obj	1cf44a6daba072e8
+1026	3591	6822803262546276	CMakeFiles/untitled.dir/mainwindow.cpp.obj	f4500baae5294068
+3631	3968	6822803266272975	untitled.exe	879b2e99851b8bba
+18	1626	0	CMakeFiles/untitled_autogen	3214624e0da835f1
+18	1626	0	untitled_autogen/mocs_compilation.cpp	3214624e0da835f1
+18	1626	0	untitled_autogen/include/ui_mainwindow.h	3214624e0da835f1
+18	1626	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY02-Layout-managers-and-dialogs/8WidgetItem/cmake-build-debug/CMakeFiles/untitled_autogen	3214624e0da835f1
+18	1626	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY02-Layout-managers-and-dialogs/8WidgetItem/cmake-build-debug/untitled_autogen/mocs_compilation.cpp	3214624e0da835f1
+18	1626	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY02-Layout-managers-and-dialogs/8WidgetItem/cmake-build-debug/untitled_autogen/include/ui_mainwindow.h	3214624e0da835f1
+1656	7005	6823352335604845	CMakeFiles/untitled.dir/mainwindow.cpp.obj	5337bc9f1fafd3d5
+1628	7011	6823352335670715	CMakeFiles/untitled.dir/main.cpp.obj	8090920c8710f09a
+1641	7012	6823352335690680	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.obj	cc7f20864e028664
+1671	7145	6823352337002999	CMakeFiles/untitled.dir/widgetitem.cpp.obj	cd0f40184fbf6cc9
+7145	7664	6823352342113180	untitled.exe	9072b0843550e69
+10	135	0	CMakeFiles/untitled_autogen	3214624e0da835f1
+10	135	0	untitled_autogen/mocs_compilation.cpp	3214624e0da835f1
+10	135	0	untitled_autogen/include/ui_mainwindow.h	3214624e0da835f1
+10	135	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY02-Layout-managers-and-dialogs/8WidgetItem/cmake-build-debug/CMakeFiles/untitled_autogen	3214624e0da835f1
+10	135	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY02-Layout-managers-and-dialogs/8WidgetItem/cmake-build-debug/untitled_autogen/mocs_compilation.cpp	3214624e0da835f1
+10	135	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY02-Layout-managers-and-dialogs/8WidgetItem/cmake-build-debug/untitled_autogen/include/ui_mainwindow.h	3214624e0da835f1

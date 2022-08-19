@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/pic/all.png</file>
+        <file>res/pic/cloudy.png</file>
+        <file>res/pic/day-rain.png</file>
+        <file>res/pic/day-snow.png</file>
+        <file>res/pic/day-sun.png</file>
+    </qresource>
+</RCC>

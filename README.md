@@ -1,6 +1,14 @@
 # Qt
 
+---
+
 一个是用Clion构建的(用的cmake)，一个是用Qtcreater构建（qmake）
+
+### Qt Creator打开CMake项目
+
+【文件】->【打开文件或项目】->选择**CMakeLists.txt**文件
+
+---
 
 
 

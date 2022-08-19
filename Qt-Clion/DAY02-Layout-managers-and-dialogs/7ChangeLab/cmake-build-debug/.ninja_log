@@ -1,0 +1,74 @@
+# ninja log v5
+112	1923	6823308638975360	CMakeFiles/untitled.dir/main.cpp.obj	b7cd281598875a01
+9	140	0	CMakeFiles/untitled_autogen	8dce728374cd2343
+9	140	0	untitled_autogen/mocs_compilation.cpp	8dce728374cd2343
+9	140	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY02-Layout managers and dialogs/7ChangeLab/cmake-build-debug/CMakeFiles/untitled_autogen	8dce728374cd2343
+148	2390	6823308125354485	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.obj	1487002d163c501
+9	140	0	untitled_autogen/include/ui_mainwindow.h	8dce728374cd2343
+829	2812	6823262147413633	CMakeFiles/untitled.dir/mainwindow.cpp.obj	fc631e3d168f167
+1787	2039	6823311354992598	untitled.exe	48f6554bc065c9c0
+9	140	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY02-Layout managers and dialogs/7ChangeLab/cmake-build-debug/untitled_autogen/mocs_compilation.cpp	8dce728374cd2343
+9	140	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY02-Layout managers and dialogs/7ChangeLab/cmake-build-debug/untitled_autogen/include/ui_mainwindow.h	8dce728374cd2343
+105	1787	6823311352514655	CMakeFiles/untitled.dir/changelab.cpp.obj	2f0b3d85983153b1
+922	3110	6823288200203169	CMakeFiles/untitled.dir/MyWidget.cpp.obj	de56b5415ef604bc
+7	117	0	CMakeFiles/untitled_autogen	8dce728374cd2343
+7	117	0	untitled_autogen/mocs_compilation.cpp	8dce728374cd2343
+7	117	0	untitled_autogen/include/ui_mainwindow.h	8dce728374cd2343
+7	117	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY02-Layout managers and dialogs/7ChangeLab/cmake-build-debug/CMakeFiles/untitled_autogen	8dce728374cd2343
+7	117	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY02-Layout managers and dialogs/7ChangeLab/cmake-build-debug/untitled_autogen/mocs_compilation.cpp	8dce728374cd2343
+7	117	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY02-Layout managers and dialogs/7ChangeLab/cmake-build-debug/untitled_autogen/include/ui_mainwindow.h	8dce728374cd2343
+8	102	0	CMakeFiles/untitled_autogen	8dce728374cd2343
+8	102	0	untitled_autogen/mocs_compilation.cpp	8dce728374cd2343
+8	102	0	untitled_autogen/include/ui_mainwindow.h	8dce728374cd2343
+8	102	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY02-Layout managers and dialogs/7ChangeLab/cmake-build-debug/CMakeFiles/untitled_autogen	8dce728374cd2343
+8	102	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY02-Layout managers and dialogs/7ChangeLab/cmake-build-debug/untitled_autogen/mocs_compilation.cpp	8dce728374cd2343
+8	102	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY02-Layout managers and dialogs/7ChangeLab/cmake-build-debug/untitled_autogen/include/ui_mainwindow.h	8dce728374cd2343
+103	1741	6823311787132377	CMakeFiles/untitled.dir/changelab.cpp.obj	2f0b3d85983153b1
+1741	1988	6823311789573261	untitled.exe	48f6554bc065c9c0
+5	94	0	CMakeFiles/untitled_autogen	8dce728374cd2343
+5	94	0	untitled_autogen/mocs_compilation.cpp	8dce728374cd2343
+5	94	0	untitled_autogen/include/ui_mainwindow.h	8dce728374cd2343
+5	94	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY02-Layout managers and dialogs/7ChangeLab/cmake-build-debug/CMakeFiles/untitled_autogen	8dce728374cd2343
+5	94	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY02-Layout managers and dialogs/7ChangeLab/cmake-build-debug/untitled_autogen/mocs_compilation.cpp	8dce728374cd2343
+5	94	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY02-Layout managers and dialogs/7ChangeLab/cmake-build-debug/untitled_autogen/include/ui_mainwindow.h	8dce728374cd2343
+7	109	0	CMakeFiles/untitled_autogen	8dce728374cd2343
+7	109	0	untitled_autogen/mocs_compilation.cpp	8dce728374cd2343
+7	109	0	untitled_autogen/include/ui_mainwindow.h	8dce728374cd2343
+7	109	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY02-Layout managers and dialogs/7ChangeLab/cmake-build-debug/CMakeFiles/untitled_autogen	8dce728374cd2343
+7	109	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY02-Layout managers and dialogs/7ChangeLab/cmake-build-debug/untitled_autogen/mocs_compilation.cpp	8dce728374cd2343
+7	109	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY02-Layout managers and dialogs/7ChangeLab/cmake-build-debug/untitled_autogen/include/ui_mainwindow.h	8dce728374cd2343
+110	2324	6823315724518449	CMakeFiles/untitled.dir/changelab.cpp.obj	2f0b3d85983153b1
+2324	2650	6823315727747461	untitled.exe	48f6554bc065c9c0
+7	127	0	CMakeFiles/untitled_autogen	8dce728374cd2343
+7	127	0	untitled_autogen/mocs_compilation.cpp	8dce728374cd2343
+7	127	0	untitled_autogen/include/ui_mainwindow.h	8dce728374cd2343
+7	127	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY02-Layout managers and dialogs/7ChangeLab/cmake-build-debug/CMakeFiles/untitled_autogen	8dce728374cd2343
+7	127	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY02-Layout managers and dialogs/7ChangeLab/cmake-build-debug/untitled_autogen/mocs_compilation.cpp	8dce728374cd2343
+7	127	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY02-Layout managers and dialogs/7ChangeLab/cmake-build-debug/untitled_autogen/include/ui_mainwindow.h	8dce728374cd2343
+9	351	0	CMakeFiles/untitled_autogen	8dce728374cd2343
+9	351	0	untitled_autogen/mocs_compilation.cpp	8dce728374cd2343
+9	351	0	untitled_autogen/include/ui_mainwindow.h	8dce728374cd2343
+9	351	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY02-Layout managers and dialogs/7ChangeLab/cmake-build-debug/CMakeFiles/untitled_autogen	8dce728374cd2343
+9	351	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY02-Layout managers and dialogs/7ChangeLab/cmake-build-debug/untitled_autogen/mocs_compilation.cpp	8dce728374cd2343
+9	351	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY02-Layout managers and dialogs/7ChangeLab/cmake-build-debug/untitled_autogen/include/ui_mainwindow.h	8dce728374cd2343
+5	91	0	CMakeFiles/untitled_autogen	8dce728374cd2343
+5	91	0	untitled_autogen/mocs_compilation.cpp	8dce728374cd2343
+5	91	0	untitled_autogen/include/ui_mainwindow.h	8dce728374cd2343
+5	91	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY02-Layout managers and dialogs/7ChangeLab/cmake-build-debug/CMakeFiles/untitled_autogen	8dce728374cd2343
+5	91	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY02-Layout managers and dialogs/7ChangeLab/cmake-build-debug/untitled_autogen/mocs_compilation.cpp	8dce728374cd2343
+5	91	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY02-Layout managers and dialogs/7ChangeLab/cmake-build-debug/untitled_autogen/include/ui_mainwindow.h	8dce728374cd2343
+6	112	0	CMakeFiles/untitled_autogen	8dce728374cd2343
+6	112	0	untitled_autogen/mocs_compilation.cpp	8dce728374cd2343
+6	112	0	untitled_autogen/include/ui_mainwindow.h	8dce728374cd2343
+6	112	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY02-Layout managers and dialogs/7ChangeLab/cmake-build-debug/CMakeFiles/untitled_autogen	8dce728374cd2343
+6	112	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY02-Layout managers and dialogs/7ChangeLab/cmake-build-debug/untitled_autogen/mocs_compilation.cpp	8dce728374cd2343
+6	112	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY02-Layout managers and dialogs/7ChangeLab/cmake-build-debug/untitled_autogen/include/ui_mainwindow.h	8dce728374cd2343
+7	154	0	CMakeFiles/untitled_autogen	8dce728374cd2343
+7	154	0	untitled_autogen/mocs_compilation.cpp	8dce728374cd2343
+7	154	0	untitled_autogen/include/ui_mainwindow.h	8dce728374cd2343
+7	154	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY02-Layout managers and dialogs/7ChangeLab/cmake-build-debug/CMakeFiles/untitled_autogen	8dce728374cd2343
+7	154	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY02-Layout managers and dialogs/7ChangeLab/cmake-build-debug/untitled_autogen/mocs_compilation.cpp	8dce728374cd2343
+7	154	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY02-Layout managers and dialogs/7ChangeLab/cmake-build-debug/untitled_autogen/include/ui_mainwindow.h	8dce728374cd2343
+155	2373	6823350423830148	CMakeFiles/untitled.dir/main.cpp.obj	b7cd281598875a01
+168	2605	6823350426119721	CMakeFiles/untitled.dir/changelab.cpp.obj	2f0b3d85983153b1
+2605	2968	6823350429698696	untitled.exe	48f6554bc065c9c0
