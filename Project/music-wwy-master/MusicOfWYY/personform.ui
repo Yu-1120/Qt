@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>personForm</class>
+ <widget class="QWidget" name="personForm">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>290</width>
+    <height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QPushButton" name="pushButton_dynamic">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>20</y>
+     <width>30</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Microsoft YaHei UI</family>
+    </font>
+   </property>
+   <property name="text">
+    <string>动态</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_attention">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>20</y>
+     <width>30</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Microsoft YaHei UI</family>
+    </font>
+   </property>
+   <property name="text">
+    <string>关注</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_fans">
+   <property name="geometry">
+    <rect>
+     <x>220</x>
+     <y>20</y>
+     <width>30</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Microsoft YaHei UI</family>
+    </font>
+   </property>
+   <property name="text">
+    <string>粉丝</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_dy">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>15</y>
+     <width>31</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>15</string>
+   </property>
+   <property name="alignment">
+    <set>Qt::AlignCenter</set>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_at">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>15</y>
+     <width>31</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>999</string>
+   </property>
+   <property name="alignment">
+    <set>Qt::AlignCenter</set>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_fans">
+   <property name="geometry">
+    <rect>
+     <x>220</x>
+     <y>15</y>
+     <width>31</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>888</string>
+   </property>
+   <property name="alignment">
+    <set>Qt::AlignCenter</set>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_sign">
+   <property name="geometry">
+    <rect>
+     <x>100</x>
+     <y>70</y>
+     <width>87</width>
+     <height>35</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_line1">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>116</y>
+     <width>291</width>
+     <height>1</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_Center">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>120</y>
+     <width>291</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_Class">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>160</y>
+     <width>291</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_store">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>200</y>
+     <width>291</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_line2">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>240</y>
+     <width>291</width>
+     <height>1</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_person_mess">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>240</y>
+     <width>291</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_binding">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>280</y>
+     <width>291</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_line3">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>320</y>
+     <width>291</width>
+     <height>1</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_myservice">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>320</y>
+     <width>291</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_myquit">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>360</y>
+     <width>291</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_line4">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>360</y>
+     <width>291</width>
+     <height>1</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_center">
+   <property name="geometry">
+    <rect>
+     <x>18</x>
+     <y>130</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_class">
+   <property name="geometry">
+    <rect>
+     <x>18</x>
+     <y>170</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_store">
+   <property name="geometry">
+    <rect>
+     <x>18</x>
+     <y>210</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_person_message">
+   <property name="geometry">
+    <rect>
+     <x>18</x>
+     <y>250</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_binding">
+   <property name="geometry">
+    <rect>
+     <x>18</x>
+     <y>290</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_service">
+   <property name="geometry">
+    <rect>
+     <x>18</x>
+     <y>330</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_quit">
+   <property name="geometry">
+    <rect>
+     <x>18</x>
+     <y>370</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_center2">
+   <property name="geometry">
+    <rect>
+     <x>48</x>
+     <y>133</y>
+     <width>54</width>
+     <height>15</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Microsoft YaHei UI</family>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>会员中心</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_class2">
+   <property name="geometry">
+    <rect>
+     <x>48</x>
+     <y>173</y>
+     <width>54</width>
+     <height>15</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Microsoft YaHei UI</family>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>等级</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_store2">
+   <property name="geometry">
+    <rect>
+     <x>48</x>
+     <y>213</y>
+     <width>54</width>
+     <height>15</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Microsoft YaHei UI</family>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>商城</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_person_message2">
+   <property name="geometry">
+    <rect>
+     <x>48</x>
+     <y>253</y>
+     <width>81</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Microsoft YaHei UI</family>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>个人信息设置</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_binding2">
+   <property name="geometry">
+    <rect>
+     <x>48</x>
+     <y>290</y>
+     <width>91</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Microsoft JhengHei UI</family>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>绑定社交账号</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_service2">
+   <property name="geometry">
+    <rect>
+     <x>48</x>
+     <y>333</y>
+     <width>54</width>
+     <height>15</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Microsoft YaHei UI</family>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>我的客服</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_quit2">
+   <property name="geometry">
+    <rect>
+     <x>48</x>
+     <y>373</y>
+     <width>54</width>
+     <height>15</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Microsoft YaHei UI</family>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>退出登录</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_center3">
+   <property name="geometry">
+    <rect>
+     <x>220</x>
+     <y>133</y>
+     <width>41</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>未订购</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_store3">
+   <property name="geometry">
+    <rect>
+     <x>210</x>
+     <y>213</y>
+     <width>54</width>
+     <height>12</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_person_message3">
+   <property name="geometry">
+    <rect>
+     <x>210</x>
+     <y>253</y>
+     <width>54</width>
+     <height>12</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_binding3">
+   <property name="geometry">
+    <rect>
+     <x>238</x>
+     <y>290</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_service3">
+   <property name="geometry">
+    <rect>
+     <x>210</x>
+     <y>333</y>
+     <width>54</width>
+     <height>12</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_class3">
+   <property name="geometry">
+    <rect>
+     <x>230</x>
+     <y>173</y>
+     <width>31</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>华文仿宋</family>
+     <pointsize>11</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>Lv.8</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_L">
+   <property name="geometry">
+    <rect>
+     <x>260</x>
+     <y>133</y>
+     <width>16</width>
+     <height>15</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_L2">
+   <property name="geometry">
+    <rect>
+     <x>260</x>
+     <y>173</y>
+     <width>16</width>
+     <height>15</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_L3">
+   <property name="geometry">
+    <rect>
+     <x>260</x>
+     <y>213</y>
+     <width>16</width>
+     <height>15</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_L4">
+   <property name="geometry">
+    <rect>
+     <x>260</x>
+     <y>253</y>
+     <width>16</width>
+     <height>15</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_L5">
+   <property name="geometry">
+    <rect>
+     <x>260</x>
+     <y>293</y>
+     <width>16</width>
+     <height>15</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_L6">
+   <property name="geometry">
+    <rect>
+     <x>260</x>
+     <y>333</y>
+     <width>16</width>
+     <height>15</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <zorder>label_fans</zorder>
+  <zorder>label_at</zorder>
+  <zorder>label_dy</zorder>
+  <zorder>pushButton_dynamic</zorder>
+  <zorder>pushButton_attention</zorder>
+  <zorder>pushButton_fans</zorder>
+  <zorder>pushButton_sign</zorder>
+  <zorder>label_line1</zorder>
+  <zorder>pushButton_Center</zorder>
+  <zorder>pushButton_Class</zorder>
+  <zorder>pushButton_store</zorder>
+  <zorder>label_line2</zorder>
+  <zorder>pushButton_person_mess</zorder>
+  <zorder>pushButton_binding</zorder>
+  <zorder>label_line3</zorder>
+  <zorder>pushButton_myservice</zorder>
+  <zorder>pushButton_myquit</zorder>
+  <zorder>label_line4</zorder>
+  <zorder>label_center</zorder>
+  <zorder>label_class</zorder>
+  <zorder>label_store</zorder>
+  <zorder>label_person_message</zorder>
+  <zorder>label_binding</zorder>
+  <zorder>label_service</zorder>
+  <zorder>label_quit</zorder>
+  <zorder>label_center2</zorder>
+  <zorder>label_class2</zorder>
+  <zorder>label_store2</zorder>
+  <zorder>label_person_message2</zorder>
+  <zorder>label_binding2</zorder>
+  <zorder>label_service2</zorder>
+  <zorder>label_quit2</zorder>
+  <zorder>label_center3</zorder>
+  <zorder>label_store3</zorder>
+  <zorder>label_person_message3</zorder>
+  <zorder>label_binding3</zorder>
+  <zorder>label_service3</zorder>
+  <zorder>label_class3</zorder>
+  <zorder>label_L</zorder>
+  <zorder>label_L2</zorder>
+  <zorder>label_L3</zorder>
+  <zorder>label_L4</zorder>
+  <zorder>label_L5</zorder>
+  <zorder>label_L6</zorder>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

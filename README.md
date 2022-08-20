@@ -2,7 +2,11 @@
 
 ---
 
-一个是用Clion构建的(用的cmake)，一个是用Qtcreater构建（qmake）
+一个是用Clion构建的(用的cmake)，下面是教程
+
+https://yu-1120.github.io/2022/08/14/Qt/CLion%E5%BC%80%E5%8F%91Qt/
+
+一个是用Qtcreater构建（qmake）
 
 ### Qt Creator打开CMake项目
 
