@@ -32,9 +32,9 @@ if (ANDROID)
             main.cpp
             mainwindow.cpp
             mainwindow.h
-            mainwindow.ui
-            changelab.cpp
-            changelab.h
+            calculate.cpp
+            calculate.h
+            calculate.ui
             )
 
 else ()
@@ -42,9 +42,9 @@ else ()
             main.cpp
             mainwindow.cpp
             mainwindow.h
-            mainwindow.ui
-            changelab.cpp
-            changelab.h
+            calculate.cpp
+            calculate.h
+            calculate.ui
             )
 endif ()
 

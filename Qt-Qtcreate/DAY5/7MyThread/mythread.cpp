@@ -12,7 +12,7 @@ MyThread::MyThread(QWidget *parent)
 
 MyThread::~MyThread()
 {
-    thread->terminate();
+    thread->terminate();//这里要销毁，同下
 
     delete ui;
 }
