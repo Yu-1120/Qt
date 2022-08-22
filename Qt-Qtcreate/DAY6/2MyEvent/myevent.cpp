@@ -36,6 +36,8 @@ bool MyEvent::eventFilter(QObject *watched,QEvent *e)
 
         //恢复成按键事件的类型
         QKeyEvent *pkey = dynamic_cast<QKeyEvent *>(e);
+        //多态类型的父子转换
+        //-------------------------
         switch (pkey->key()) {
             case Qt::Key_Up:
                 //qDebug()<<"Key_Up";

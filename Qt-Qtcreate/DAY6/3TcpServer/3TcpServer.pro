@@ -1,5 +1,5 @@
 QT       += core gui network
-
+#Qt中也提供TCP/UDP的套接字通信，使用时需要包含网络模块和对应的头文件
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
 CONFIG += c++11
