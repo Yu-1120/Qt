@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MyMplayer</class>
+ <widget class="QWidget" name="MyMplayer">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>480</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MyMplayer</string>
+  </property>
+  <widget class="QPushButton" name="pushButton_prev">
+   <property name="geometry">
+    <rect>
+     <x>370</x>
+     <y>400</y>
+     <width>100</width>
+     <height>40</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>上一个</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_deletevideo">
+   <property name="geometry">
+    <rect>
+     <x>655</x>
+     <y>370</y>
+     <width>100</width>
+     <height>40</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>删除视频</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_addvideo">
+   <property name="geometry">
+    <rect>
+     <x>655</x>
+     <y>310</y>
+     <width>100</width>
+     <height>40</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>添加视频</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_next">
+   <property name="geometry">
+    <rect>
+     <x>490</x>
+     <y>400</y>
+     <width>100</width>
+     <height>40</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>下一个</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_clearvideo">
+   <property name="geometry">
+    <rect>
+     <x>655</x>
+     <y>430</y>
+     <width>100</width>
+     <height>40</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>清空视频</string>
+   </property>
+  </widget>
+  <widget class="QListWidget" name="listWidget">
+   <property name="geometry">
+    <rect>
+     <x>610</x>
+     <y>10</y>
+     <width>181</width>
+     <height>281</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_play">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>400</y>
+     <width>100</width>
+     <height>40</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>播放</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_cancel">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>400</y>
+     <width>100</width>
+     <height>40</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>停止</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_stop_cont">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="geometry">
+    <rect>
+     <x>250</x>
+     <y>400</y>
+     <width>100</width>
+     <height>40</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>暂停</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>600</width>
+     <height>360</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgb(170, 0, 255);</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

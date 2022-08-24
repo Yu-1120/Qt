@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MusicPlayer</class>
+ <widget class="QWidget" name="MusicPlayer">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>480</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MusicPlayer</string>
+  </property>
+  <widget class="QPushButton" name="pushButton_play">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>410</y>
+     <width>101</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>播放</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_cancel">
+   <property name="geometry">
+    <rect>
+     <x>150</x>
+     <y>410</y>
+     <width>101</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>停止</string>
+   </property>
+  </widget>
+  <widget class="QListWidget" name="listWidget">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>10</y>
+     <width>621</width>
+     <height>371</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_addmusic">
+   <property name="geometry">
+    <rect>
+     <x>660</x>
+     <y>20</y>
+     <width>101</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>添加音乐</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_deletemusic">
+   <property name="geometry">
+    <rect>
+     <x>660</x>
+     <y>90</y>
+     <width>101</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>删除音乐</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_clearmusic">
+   <property name="geometry">
+    <rect>
+     <x>660</x>
+     <y>160</y>
+     <width>101</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>清空音乐</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_stop_cont">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="geometry">
+    <rect>
+     <x>270</x>
+     <y>410</y>
+     <width>101</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>暂停</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_prev">
+   <property name="geometry">
+    <rect>
+     <x>390</x>
+     <y>410</y>
+     <width>101</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>上一首</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_next">
+   <property name="geometry">
+    <rect>
+     <x>510</x>
+     <y>410</y>
+     <width>101</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>下一首</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
