@@ -16,16 +16,22 @@ MyEvent::~MyEvent()
 {
     delete ui;
 }
+/*
+重构:QWidget:: wheelEvent (QWheelEvent *事件)。
 
+这个事件处理程序可以在子类中重新实现，以接收viewport()小部件的轮状事件。事件在e中传递
+滚轮事件
+。
+*/
 void MyEvent::wheelEvent(QWheelEvent *event)
 {
     int delta = event->delta();
     QRect rct = ui->pushButton->geometry();
-
+//**************************************************
     if(delta<0&&rct.width()>50&&rct.height()>25){//缩小
-        rct.setWidth(rct.width()-6);
+        rct.setWidth(rct.width()-6);//右下角要减少
         rct.setHeight(rct.height()-3);
-        rct.setX(rct.x()+6);
+        rct.setX(rct.x()+6);//左上角要增加
         rct.setY(rct.y()+3);
     }
     else if(delta>0&&rct.x()+rct.width()+6<=this->width()
@@ -37,7 +43,7 @@ void MyEvent::wheelEvent(QWheelEvent *event)
         rct.setX(rct.x()-6);
         rct.setY(rct.y()-3);
     }
-
+//**************************************************
     //设置按钮的坐标和大小
     ui->pushButton->setGeometry(rct);
 }
@@ -58,7 +64,7 @@ bool MyEvent::eventFilter(QObject *watched,QEvent *e)
         int btn_height = ui->pushButton->height();
         int win_width = this->width();
         int win_height = this->height();
-
+//**************************************************
         //恢复成按键事件的类型
         QKeyEvent *pkey = dynamic_cast<QKeyEvent *>(e);
         switch (pkey->key()) {
@@ -87,7 +93,7 @@ bool MyEvent::eventFilter(QObject *watched,QEvent *e)
         //移动按键
         ui->pushButton->move(x,y);
     }
-
+//**************************************************
     return QWidget::eventFilter(watched,e);
 }
 

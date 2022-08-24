@@ -30,7 +30,10 @@ void GetAppdata::on_pushButton_clicked()
     QUrl url(ui->lineEdit->text());
     //创建http请求
     QNetworkRequest request(url);
+    /*
+     http://api.k780.com/?app=weather.realtime&weaId=1&ag=today,futureDay,lifeIndex,futureHour&appkey=10003&sign=b59bc3ef6191eb9f747dd4e83c99f2a4&format=jso
 
+    */
     //发送请求
     manager->get(request);
 }
