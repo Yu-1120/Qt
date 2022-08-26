@@ -9,7 +9,7 @@ MyProcess::MyProcess(QWidget *parent)
 
     pro = new QProcess(this);
     //pro = new QProcess;
-        newthread = new NewThread(this);
+   //newthread = new NewThread(this);
 }
 
 MyProcess::~MyProcess()
@@ -38,12 +38,3 @@ void MyProcess::on_pushButton_stop_clicked()
     pro->waitForFinished();
 }
 
-void NewThread::on_proessesstart_clicked()
-{
-     newthread->start();
-}
-
-void NewThread::on_proessstop_clicked()
-{
-  newthread->terminate();
-}

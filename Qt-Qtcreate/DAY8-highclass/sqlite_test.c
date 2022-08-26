@@ -76,7 +76,7 @@ int main()
 
 	//查询数据
 	const char *sql = "select * from stutbl;";
-	res = sqlite3_exec(pDb, sql, sql_callback, NULL, NULL);
+	res = sqlite3_exec(pDb, sql, sql_callback, NULL, NULL); // 8个参数其中4个封装成一个函数了
 	if (res != SQLITE_OK)
 	{
 		printf("执行sql语句失败!\n");
