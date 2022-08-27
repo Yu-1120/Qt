@@ -1,4 +1,4 @@
-C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/4ChangeLab/cmake-build-debug/CMakeFiles/untitled.dir
-C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/4ChangeLab/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/4ChangeLab/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/4ChangeLab/cmake-build-debug/CMakeFiles/untitled_autogen.dir
+C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY03-Widget-and-QT-Designer/5MyText/cmake-build-debug/CMakeFiles/untitled.dir
+C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY03-Widget-and-QT-Designer/5MyText/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY03-Widget-and-QT-Designer/5MyText/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY03-Widget-and-QT-Designer/5MyText/cmake-build-debug/CMakeFiles/untitled_autogen.dir

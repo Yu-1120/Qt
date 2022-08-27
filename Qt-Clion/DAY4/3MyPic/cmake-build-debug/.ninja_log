@@ -1,0 +1,14 @@
+# ninja log v5
+4	623	0	CMakeFiles/mytest_autogen	42d851ac1e6e62d4
+4	623	0	mytest_autogen/mocs_compilation.cpp	42d851ac1e6e62d4
+4	623	0	mytest_autogen/include/ui_mypic.h	42d851ac1e6e62d4
+4	623	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY4/3MyPic/cmake-build-debug/CMakeFiles/mytest_autogen	42d851ac1e6e62d4
+4	623	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY4/3MyPic/cmake-build-debug/mytest_autogen/mocs_compilation.cpp	42d851ac1e6e62d4
+4	623	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY4/3MyPic/cmake-build-debug/mytest_autogen/include/ui_mypic.h	42d851ac1e6e62d4
+624	732	6833045687519376	mytest_autogen/EWIEGA46WW/qrc_qrc.cpp	d331d26442d792c8
+624	732	6833045687519376	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY4/3MyPic/cmake-build-debug/mytest_autogen/EWIEGA46WW/qrc_qrc.cpp	d331d26442d792c8
+749	951	6833045689737569	CMakeFiles/mytest.dir/mytest_autogen/EWIEGA46WW/qrc_qrc.cpp.obj	156ff6d9c215e361
+739	2258	6833045702797855	CMakeFiles/mytest.dir/mytest_autogen/mocs_compilation.cpp.obj	1d364e2e42d67da4
+733	2465	6833045704863243	CMakeFiles/mytest.dir/main.cpp.obj	7e155d9531d5df85
+760	2485	6833045705069436	CMakeFiles/mytest.dir/mypic.cpp.obj	9e5f9861341d6eb3
+2485	2747	6833045707635918	mytest.exe	3a04a9e122d86991

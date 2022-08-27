@@ -1,0 +1,24 @@
+# ninja log v5
+2	813	0	CMakeFiles/mytest_autogen	bce764d1a9a88560
+2	813	0	mytest_autogen/mocs_compilation.cpp	bce764d1a9a88560
+2	813	0	mytest_autogen/include/ui_mycalculate.h	bce764d1a9a88560
+2	813	0	mytest_autogen/include/ui_calculate.h	bce764d1a9a88560
+2	813	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY4/2MyCalculate/cmake-build-debug/CMakeFiles/mytest_autogen	bce764d1a9a88560
+2	813	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY4/2MyCalculate/cmake-build-debug/mytest_autogen/mocs_compilation.cpp	bce764d1a9a88560
+2	813	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY4/2MyCalculate/cmake-build-debug/mytest_autogen/include/ui_mycalculate.h	bce764d1a9a88560
+2	813	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY4/2MyCalculate/cmake-build-debug/mytest_autogen/include/ui_calculate.h	bce764d1a9a88560
+822	2666	6833042170097196	CMakeFiles/mytest.dir/mytest_autogen/mocs_compilation.cpp.obj	e77ed9d7735051b7
+815	2842	6833042171709106	CMakeFiles/mytest.dir/main.cpp.obj	5659cffec8602f25
+829	2926	6833042172729528	CMakeFiles/mytest.dir/calculate.cpp.obj	bbd3d1f7c6236ad5
+838	3019	6833042173649503	CMakeFiles/mytest.dir/mycalculate.cpp.obj	1ec69d20cb216c42
+3019	3311	6833042176540466	mytest.exe	37af0d67b8f7a796
+5	95	0	CMakeFiles/mytest_autogen	bce764d1a9a88560
+5	95	0	mytest_autogen/mocs_compilation.cpp	bce764d1a9a88560
+5	95	0	mytest_autogen/include/ui_mycalculate.h	bce764d1a9a88560
+5	95	0	mytest_autogen/include/ui_calculate.h	bce764d1a9a88560
+5	95	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY4/2MyCalculate/cmake-build-debug/CMakeFiles/mytest_autogen	bce764d1a9a88560
+5	95	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY4/2MyCalculate/cmake-build-debug/mytest_autogen/mocs_compilation.cpp	bce764d1a9a88560
+5	95	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY4/2MyCalculate/cmake-build-debug/mytest_autogen/include/ui_mycalculate.h	bce764d1a9a88560
+5	95	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY4/2MyCalculate/cmake-build-debug/mytest_autogen/include/ui_calculate.h	bce764d1a9a88560
+96	1771	6833043977692979	CMakeFiles/mytest.dir/calculate.cpp.obj	bbd3d1f7c6236ad5
+1771	2016	6833043980090555	mytest.exe	37af0d67b8f7a796

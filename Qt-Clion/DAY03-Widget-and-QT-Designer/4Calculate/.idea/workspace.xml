@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="main" targetName="main" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c59a1b97-a4c7-4dfc-8097-6f95f10037b7" name="变更" comment="">
+      <change beforePath="$PROJECT_DIR$/../1WidgetItem/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../1WidgetItem/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1WidgetItem/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../1WidgetItem/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/saveactions_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt.user" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculate.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/calculate.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cache-v2-058e212a165a3b337e39.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-c03abb9c8ae89ab7033e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-396f1ba64c2d53b4cbe3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2022-08-21T07-29-50-0123.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-untitled-Debug-a5134f940a5cb65015b0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-untitled_autogen-Debug-993e2273a04a661768f4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.22.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.22.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clean_additional.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clean_additional.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/untitled_autogen.dir/AutogenInfo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/untitled_autogen/EWIEGA46WW/moc_changelab.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/untitled_autogen/EWIEGA46WW/moc_mainwindow.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/untitled_autogen/EWIEGA46WW/moc_mylayout.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/untitled_autogen/EWIEGA46WW/moc_mywidget.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/untitled_autogen/EWIEGA46WW/moc_mywiget.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/untitled_autogen/include/ui_mainwindow.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/untitled_autogen/moc_predefs.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/untitled_autogen/mocs_compilation.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mainwindow.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/mainwindow.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mainwindow.h" beforeDir="false" afterPath="$PROJECT_DIR$/mainwindow.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Qt-Qtcreate/DAY8-highclass/StuDB/StuDB.pro.user" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Qt-Qtcreate/DAY8-highclass/StuDB/StuDB.pro.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Qt-Qtcreate/DAY8-highclass/StuDB/studb.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Qt-Qtcreate/DAY8-highclass/StuDB/studb.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Qt-Qtcreate/DAY8-highclass/StuDB/studb.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Qt-Qtcreate/DAY8-highclass/StuDB/studb.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Qt-Qtcreate/DAY8-highclass/StuDB/studb.h.autosave" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Qt-Qtcreate/DAY8-highclass/StuDB/studb.ui" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Qt-Qtcreate/DAY8-highclass/StuDB/studb.ui" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Qt-Qtcreate/DAY8-highclass/StuDB/studb.ui.autosave" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Qt-Qtcreate/DAY8-highclass/sqlite_test.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Qt-Qtcreate/DAY9/1StuDB/StuDB.pro.user" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Qt-Qtcreate/DAY9/1StuDB/StuDB.pro.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Qt-Qtcreate/DAY9/1StuDB/studb.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Qt-Qtcreate/DAY9/1StuDB/studb.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Qt-Qtcreate/DAY9/2SQLStu/2SQLStu.pro.user" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Qt-Qtcreate/DAY9/2SQLStu/2SQLStu.pro.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Qt-Qtcreate/DAY9/2SQLStu/sqlstu.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Qt-Qtcreate/DAY9/2SQLStu/sqlstu.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Qt-Qtcreate/DAY9/2SQLStu/sqlstu.ui" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Qt-Qtcreate/DAY9/2SQLStu/sqlstu.ui" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Qt-Qtcreate/DAY9/3SQLLogin/3SQLLogin.pro.user" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Qt-Qtcreate/DAY9/3SQLLogin/3SQLLogin.pro.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Qt-Qtcreate/DAY9/3SQLLogin/sqllogin.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Qt-Qtcreate/DAY9/3SQLLogin/sqllogin.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Qt-Qtcreate/DAY9/4SQLModelStu/4SQLModelStu.pro.user" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Qt-Qtcreate/DAY9/4SQLModelStu/4SQLModelStu.pro.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Qt-Qtcreate/DAY9/4SQLModelStu/sqlmodelstu.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Qt-Qtcreate/DAY9/4SQLModelStu/sqlmodelstu.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Qt-Qtcreate/DAY9/5SmartSQLStu/5SmartSQLStu.pro.user" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Qt-Qtcreate/DAY9/5SmartSQLStu/5SmartSQLStu.pro.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="1.3" />
+  </component>
+  <component name="ProjectId" id="2DLz7ArnvgbcTvgOcrspA7XNz8J" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Qt/Qt5.14.2/5.14.2/mingw73_64/bin/designer.exe&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.externalTools&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\11868\Documents\GitHub\Qt\Qt-Clion\DAY03-Widget-and-QT-Designer\4Calculate" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="main" TARGET_NAME="main" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="main" RUN_TARGET_NAME="main">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="c59a1b97-a4c7-4dfc-8097-6f95f10037b7" name="变更" comment="" />
+      <created>1660492985782</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660492985782</updated>
+      <workItem from="1660492987356" duration="2274000" />
+      <workItem from="1660495897770" duration="230000" />
+      <workItem from="1660551859304" duration="1033000" />
+      <workItem from="1660552920630" duration="714000" />
+      <workItem from="1660554114581" duration="5001000" />
+      <workItem from="1660564286905" duration="294000" />
+      <workItem from="1660576087572" duration="295000" />
+      <workItem from="1660577080711" duration="37000" />
+      <workItem from="1660577578942" duration="93000" />
+      <workItem from="1661065780453" duration="4828000" />
+      <workItem from="1661090959866" duration="80000" />
+      <workItem from="1661506727864" duration="1161000" />
+      <workItem from="1661594541352" duration="1627000" />
+      <workItem from="1661596650908" duration="179000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+    </ignored-roots>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

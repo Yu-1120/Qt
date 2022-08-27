@@ -78,7 +78,7 @@ CMAKE_EXPORT_COMPILE_COMMANDS:BOOL=
 CMAKE_GNUtoMS:BOOL=OFF
 
 //Install path prefix, prepended onto install directories.
-CMAKE_INSTALL_PREFIX:PATH=C:/Program Files (x86)/untitled
+CMAKE_INSTALL_PREFIX:PATH=C:/Program Files (x86)/main
 
 //Path to a program.
 CMAKE_LINKER:FILEPATH=D:/CLion/CLion 2022.1/bin/mingw/bin/ld.exe
@@ -122,7 +122,7 @@ CMAKE_PROJECT_DESCRIPTION:STATIC=
 CMAKE_PROJECT_HOMEPAGE_URL:STATIC=
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=untitled
+CMAKE_PROJECT_NAME:STATIC=main
 
 //Path to a program.
 CMAKE_RANLIB:FILEPATH=D:/CLion/CLion 2022.1/bin/mingw/bin/ranlib.exe
@@ -217,13 +217,13 @@ Qt5Widgets_DIR:PATH=C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Widgets
 Qt5_DIR:PATH=C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5
 
 //Value Computed by CMake
-untitled_BINARY_DIR:STATIC=C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY03-Widget-and-QT-Designer/4Calculate/cmake-build-debug
+main_BINARY_DIR:STATIC=C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY03-Widget-and-QT-Designer/4Calculate/cmake-build-debug
 
 //Value Computed by CMake
-untitled_IS_TOP_LEVEL:STATIC=ON
+main_IS_TOP_LEVEL:STATIC=ON
 
 //Value Computed by CMake
-untitled_SOURCE_DIR:STATIC=C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY03-Widget-and-QT-Designer/4Calculate
+main_SOURCE_DIR:STATIC=C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY03-Widget-and-QT-Designer/4Calculate
 
 
 ########################

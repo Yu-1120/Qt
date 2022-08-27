@@ -1,0 +1,19 @@
+{
+	"BUILD_DIR" : "C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY4/3MyPic/cmake-build-debug/mytest_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY4/3MyPic/cmake-build-debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY4/3MyPic/cmake-build-debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY4/3MyPic",
+	"CMAKE_SOURCE_DIR" : "C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY4/3MyPic",
+	"INCLUDE_DIR" : "C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY4/3MyPic/cmake-build-debug/mytest_autogen/include",
+	"INPUTS" : [ "C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY4/3MyPic/me.jpg" ],
+	"LOCK_FILE" : "C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY4/3MyPic/cmake-build-debug/CMakeFiles/mytest_autogen.dir/AutoRcc_qrc_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "qrc" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_qrc.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/Qt5.14.2/5.14.2/mingw73_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY4/3MyPic/cmake-build-debug/CMakeFiles/mytest_autogen.dir/AutoRcc_qrc_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY4/3MyPic/qrc.qrc",
+	"VERBOSITY" : 0
+}

@@ -2,7 +2,7 @@
 
 ---
 
-一个是用Clion构建的(用的cmake)，下面是教程
+一个是用Clion构建的(用的cmake)，下面是教程-----Qt-clion是重构的Qtcreater的代码
 
 https://yu-1120.github.io/2022/08/14/Qt/CLion%E5%BC%80%E5%8F%91Qt/
 

@@ -1,15 +1,15 @@
 {
-	"BUILD_DIR" : "C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/4ChangeLab/cmake-build-debug/untitled_autogen",
-	"CMAKE_BINARY_DIR" : "C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/4ChangeLab/cmake-build-debug",
-	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/4ChangeLab/cmake-build-debug",
-	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/4ChangeLab",
+	"BUILD_DIR" : "C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY03-Widget-and-QT-Designer/5MyText/cmake-build-debug/untitled_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY03-Widget-and-QT-Designer/5MyText/cmake-build-debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY03-Widget-and-QT-Designer/5MyText/cmake-build-debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY03-Widget-and-QT-Designer/5MyText",
 	"CMAKE_EXECUTABLE" : "D:/CLion/CLion 2022.1/bin/cmake/win/bin/cmake.exe",
 	"CMAKE_LIST_FILES" : 
 	[
-		"C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/4ChangeLab/CMakeLists.txt",
-		"C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/4ChangeLab/cmake-build-debug/CMakeFiles/3.22.3/CMakeSystem.cmake",
+		"C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY03-Widget-and-QT-Designer/5MyText/CMakeLists.txt",
+		"C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY03-Widget-and-QT-Designer/5MyText/cmake-build-debug/CMakeFiles/3.22.3/CMakeSystem.cmake",
 		"D:/CLion/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeSystemSpecificInitialize.cmake",
-		"C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/4ChangeLab/cmake-build-debug/CMakeFiles/3.22.3/CMakeCXXCompiler.cmake",
+		"C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY03-Widget-and-QT-Designer/5MyText/cmake-build-debug/CMakeFiles/3.22.3/CMakeCXXCompiler.cmake",
 		"D:/CLion/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeSystemSpecificInformation.cmake",
 		"D:/CLion/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeGenericSystem.cmake",
 		"D:/CLion/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeInitializeConfigs.cmake",
@@ -22,7 +22,7 @@
 		"D:/CLion/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
 		"D:/CLion/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Platform/Windows-GNU-CXX.cmake",
 		"D:/CLion/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Platform/Windows-GNU.cmake",
-		"C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/4ChangeLab/cmake-build-debug/CMakeFiles/3.22.3/CMakeRCCompiler.cmake",
+		"C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY03-Widget-and-QT-Designer/5MyText/cmake-build-debug/CMakeFiles/3.22.3/CMakeRCCompiler.cmake",
 		"D:/CLion/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeRCInformation.cmake",
 		"D:/CLion/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Platform/Windows-windres.cmake",
 		"D:/CLion/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Platform/Windows-GNU-CXX-ABI.cmake",
@@ -60,29 +60,42 @@
 		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Widgets/Qt5Widgets_QWindowsVistaStylePlugin.cmake",
 		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake",
 		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake",
-		"D:/CLion/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeParseArguments.cmake"
+		"D:/CLion/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeParseArguments.cmake",
+		"C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY03-Widget-and-QT-Designer/5MyText/res.qrc"
 	],
-	"CMAKE_SOURCE_DIR" : "C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/4ChangeLab",
+	"CMAKE_SOURCE_DIR" : "C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY03-Widget-and-QT-Designer/5MyText",
 	"DEP_FILE" : "",
 	"DEP_FILE_RULE_NAME" : "",
 	"HEADERS" : 
 	[
 		[
-			"C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/4ChangeLab/changelab.h",
+			"C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY03-Widget-and-QT-Designer/5MyText/find.h",
 			"MU",
-			"EWIEGA46WW/moc_changelab.cpp",
+			"EWIEGA46WW/moc_find.cpp",
 			null
 		],
 		[
-			"C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/4ChangeLab/mainwindow.h",
+			"C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY03-Widget-and-QT-Designer/5MyText/mainwindow.h",
 			"MU",
 			"EWIEGA46WW/moc_mainwindow.cpp",
+			null
+		],
+		[
+			"C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY03-Widget-and-QT-Designer/5MyText/mytext.h",
+			"MU",
+			"EWIEGA46WW/moc_mytext.cpp",
+			null
+		],
+		[
+			"C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY03-Widget-and-QT-Designer/5MyText/relay.h",
+			"MU",
+			"EWIEGA46WW/moc_relay.cpp",
 			null
 		]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
-	"INCLUDE_DIR" : "C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/4ChangeLab/cmake-build-debug/untitled_autogen/include",
-	"MOC_COMPILATION_FILE" : "C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/4ChangeLab/cmake-build-debug/untitled_autogen/mocs_compilation.cpp",
+	"INCLUDE_DIR" : "C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY03-Widget-and-QT-Designer/5MyText/cmake-build-debug/untitled_autogen/include",
+	"MOC_COMPILATION_FILE" : "C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY03-Widget-and-QT-Designer/5MyText/cmake-build-debug/untitled_autogen/mocs_compilation.cpp",
 	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_GUI_LIB", "QT_WIDGETS_LIB" ],
 	"MOC_DEPEND_FILTERS" : 
 	[
@@ -93,9 +106,9 @@
 	],
 	"MOC_INCLUDES" : 
 	[
-		"C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/4ChangeLab/cmake-build-debug",
-		"C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/4ChangeLab",
-		"C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/4ChangeLab/cmake-build-debug/Test_autogen/include",
+		"C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY03-Widget-and-QT-Designer/5MyText/cmake-build-debug",
+		"C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY03-Widget-and-QT-Designer/5MyText",
+		"C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY03-Widget-and-QT-Designer/5MyText/cmake-build-debug/Test_autogen/include",
 		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/include",
 		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets",
 		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/include/QtGui",
@@ -121,31 +134,41 @@
 		"-c",
 		"D:/CLion/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeCXXCompilerABI.cpp"
 	],
-	"MOC_PREDEFS_FILE" : "C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/4ChangeLab/cmake-build-debug/untitled_autogen/moc_predefs.h",
+	"MOC_PREDEFS_FILE" : "C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY03-Widget-and-QT-Designer/5MyText/cmake-build-debug/untitled_autogen/moc_predefs.h",
 	"MOC_RELAXED_MODE" : false,
 	"MOC_SKIP" : [],
 	"MULTI_CONFIG" : false,
 	"PARALLEL" : 4,
-	"PARSE_CACHE_FILE" : "C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/4ChangeLab/cmake-build-debug/CMakeFiles/untitled_autogen.dir/ParseCache.txt",
+	"PARSE_CACHE_FILE" : "C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY03-Widget-and-QT-Designer/5MyText/cmake-build-debug/CMakeFiles/untitled_autogen.dir/ParseCache.txt",
 	"QT_MOC_EXECUTABLE" : "C:/Qt/Qt5.14.2/5.14.2/mingw73_64/bin/moc.exe",
 	"QT_UIC_EXECUTABLE" : "C:/Qt/Qt5.14.2/5.14.2/mingw73_64/bin/uic.exe",
 	"QT_VERSION_MAJOR" : 5,
 	"QT_VERSION_MINOR" : 14,
-	"SETTINGS_FILE" : "C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/4ChangeLab/cmake-build-debug/CMakeFiles/untitled_autogen.dir/AutogenUsed.txt",
+	"SETTINGS_FILE" : "C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY03-Widget-and-QT-Designer/5MyText/cmake-build-debug/CMakeFiles/untitled_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
 		[
-			"C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/4ChangeLab/changelab.cpp",
+			"C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY03-Widget-and-QT-Designer/5MyText/find.cpp",
 			"MU",
 			null
 		],
 		[
-			"C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/4ChangeLab/main.cpp",
+			"C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY03-Widget-and-QT-Designer/5MyText/main.cpp",
 			"MU",
 			null
 		],
 		[
-			"C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/4ChangeLab/mainwindow.cpp",
+			"C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY03-Widget-and-QT-Designer/5MyText/mainwindow.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY03-Widget-and-QT-Designer/5MyText/mytext.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY03-Widget-and-QT-Designer/5MyText/relay.cpp",
 			"MU",
 			null
 		]

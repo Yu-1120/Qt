@@ -46,7 +46,6 @@ private slots:
 
     void on_action_redo_triggered();
 
-
 private:
     Ui::MyText *ui;
 };

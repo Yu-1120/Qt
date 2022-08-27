@@ -1,0 +1,4 @@
+C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY13/3MySerial/cmake-build-debug/CMakeFiles/mytest.dir
+C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY13/3MySerial/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY13/3MySerial/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY13/3MySerial/cmake-build-debug/CMakeFiles/mytest_autogen.dir

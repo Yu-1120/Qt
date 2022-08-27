@@ -1,0 +1,148 @@
+{
+	"BUILD_DIR" : "C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY13/3MySerial/cmake-build-debug/mytest_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY13/3MySerial/cmake-build-debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY13/3MySerial/cmake-build-debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY13/3MySerial",
+	"CMAKE_EXECUTABLE" : "D:/CLion/CLion 2022.1/bin/cmake/win/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY13/3MySerial/CMakeLists.txt",
+		"C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY13/3MySerial/cmake-build-debug/CMakeFiles/3.22.3/CMakeSystem.cmake",
+		"D:/CLion/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeSystemSpecificInitialize.cmake",
+		"C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY13/3MySerial/cmake-build-debug/CMakeFiles/3.22.3/CMakeCXXCompiler.cmake",
+		"D:/CLion/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeSystemSpecificInformation.cmake",
+		"D:/CLion/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeGenericSystem.cmake",
+		"D:/CLion/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeInitializeConfigs.cmake",
+		"D:/CLion/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Platform/Windows.cmake",
+		"D:/CLion/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Platform/WindowsPaths.cmake",
+		"D:/CLion/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeCXXInformation.cmake",
+		"D:/CLion/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeLanguageInformation.cmake",
+		"D:/CLion/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/GNU-CXX.cmake",
+		"D:/CLion/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/GNU.cmake",
+		"D:/CLion/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
+		"D:/CLion/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Platform/Windows-GNU-CXX.cmake",
+		"D:/CLion/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Platform/Windows-GNU.cmake",
+		"C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY13/3MySerial/cmake-build-debug/CMakeFiles/3.22.3/CMakeRCCompiler.cmake",
+		"D:/CLion/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeRCInformation.cmake",
+		"D:/CLion/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Platform/Windows-windres.cmake",
+		"D:/CLion/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Platform/Windows-GNU-CXX-ABI.cmake",
+		"D:/CLion/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeCommonLanguageInclude.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5/Qt5Config.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5/Qt5ModuleLocation.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Core/Qt5CoreMacros.cmake",
+		"D:/CLion/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeParseArguments.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgIconPlugin.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgPlugin.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsDirect2DIntegrationPlugin.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsIntegrationPlugin.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Widgets/Qt5Widgets_QWindowsVistaStylePlugin.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake",
+		"D:/CLion/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeParseArguments.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5SerialPort/Qt5SerialPortConfigVersion.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5SerialPort/Qt5SerialPortConfig.cmake"
+	],
+	"CMAKE_SOURCE_DIR" : "C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY13/3MySerial",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY13/3MySerial/myserial.h",
+			"MU",
+			"EWIEGA46WW/moc_myserial.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY13/3MySerial/cmake-build-debug/mytest_autogen/include",
+	"MOC_COMPILATION_FILE" : "C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY13/3MySerial/cmake-build-debug/mytest_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_GUI_LIB", "QT_WIDGETS_LIB" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY13/3MySerial/cmake-build-debug",
+		"C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY13/3MySerial",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/include",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/include/QtGui",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/include/QtANGLE",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/include/QtCore",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/mkspecs/win32-g++",
+		"D:/CLion/CLion 2022.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++",
+		"D:/CLion/CLion 2022.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32",
+		"D:/CLion/CLion 2022.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward",
+		"D:/CLion/CLion 2022.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include",
+		"D:/CLion/CLion 2022.1/bin/mingw/include",
+		"D:/CLion/CLion 2022.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed",
+		"D:/CLion/CLion 2022.1/bin/mingw/x86_64-w64-mingw32/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"D:/CLion/CLion 2022.1/bin/mingw/bin/g++.exe",
+		"-dM",
+		"-E",
+		"-c",
+		"D:/CLion/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY13/3MySerial/cmake-build-debug/mytest_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY13/3MySerial/cmake-build-debug/CMakeFiles/mytest_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "C:/Qt/Qt5.14.2/5.14.2/mingw73_64/bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "C:/Qt/Qt5.14.2/5.14.2/mingw73_64/bin/uic.exe",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 14,
+	"SETTINGS_FILE" : "C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY13/3MySerial/cmake-build-debug/CMakeFiles/mytest_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY13/3MySerial/main.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY13/3MySerial/myserial.cpp",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}

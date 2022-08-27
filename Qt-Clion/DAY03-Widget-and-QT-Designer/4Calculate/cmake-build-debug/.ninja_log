@@ -1,9 +1,14 @@
 # ninja log v5
-103	1621	6822808757442085	CMakeFiles/untitled.dir/main.cpp.obj	5267aef9ca51bf9b
-16	139	0	CMakeFiles/untitled_autogen	8fae6cdb5036420b
-2	576	6827701900024292	build.ninja	8ac56e5bf700197f
-16	139	0	untitled_autogen/mocs_compilation.cpp	8fae6cdb5036420b
-848	3046	6822808283527062	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.obj	ae960c0524a61bb7
-16	139	0	untitled_autogen/include/ui_mainwindow.h	8fae6cdb5036420b
-870	3126	6822808284334317	CMakeFiles/untitled.dir/mainwindow.cpp.obj	dc5ca0f56b74cf9
-1621	1862	6822808759800862	untitled.exe	48f6554bc065c9c0
+4	919	0	CMakeFiles/main_autogen	95ffa5e45ae15107
+4	919	0	main_autogen/mocs_compilation.cpp	95ffa5e45ae15107
+4	919	0	main_autogen/include/ui_mainwindow.h	95ffa5e45ae15107
+4	919	0	main_autogen/include/ui_calculate.h	95ffa5e45ae15107
+4	919	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY03-Widget-and-QT-Designer/4Calculate/cmake-build-debug/CMakeFiles/main_autogen	95ffa5e45ae15107
+4	919	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY03-Widget-and-QT-Designer/4Calculate/cmake-build-debug/main_autogen/mocs_compilation.cpp	95ffa5e45ae15107
+4	919	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY03-Widget-and-QT-Designer/4Calculate/cmake-build-debug/main_autogen/include/ui_mainwindow.h	95ffa5e45ae15107
+4	919	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY03-Widget-and-QT-Designer/4Calculate/cmake-build-debug/main_autogen/include/ui_calculate.h	95ffa5e45ae15107
+927	2709	6832995096718255	CMakeFiles/main.dir/main_autogen/mocs_compilation.cpp.obj	c7dfe60b391750ea
+921	2813	6832995097786446	CMakeFiles/main.dir/main.cpp.obj	9c87a0b754bef7c8
+935	2833	6832995097999407	CMakeFiles/main.dir/mainwindow.cpp.obj	d5b2d75a92828214
+943	2888	6832995098546728	CMakeFiles/main.dir/calculate.cpp.obj	f4c14edc25cfd55a
+2888	3198	6832995101616277	main.exe	f04d390363c16415

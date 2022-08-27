@@ -2,9 +2,6 @@
 <ui version="4.0">
  <class>MyText</class>
  <widget class="QMainWindow" name="MyText">
-  <property name="enabled">
-   <bool>true</bool>
-  </property>
   <property name="geometry">
    <rect>
     <x>0</x>
@@ -13,32 +10,14 @@
     <height>480</height>
    </rect>
   </property>
-  <property name="tabletTracking">
-   <bool>false</bool>
-  </property>
-  <property name="acceptDrops">
-   <bool>false</bool>
-  </property>
   <property name="windowTitle">
    <string>MyText</string>
   </property>
-  <property name="autoFillBackground">
-   <bool>false</bool>
-  </property>
   <widget class="QWidget" name="centralwidget">
-   <property name="mouseTracking">
-    <bool>true</bool>
-   </property>
-   <property name="tabletTracking">
-    <bool>true</bool>
-   </property>
-   <property name="autoFillBackground">
-    <bool>false</bool>
-   </property>
    <widget class="QTextEdit" name="textEdit">
     <property name="geometry">
      <rect>
-      <x>0</x>
+      <x>5</x>
       <y>0</y>
       <width>791</width>
       <height>421</height>
@@ -50,9 +29,6 @@
       <pointsize>14</pointsize>
      </font>
     </property>
-    <property name="tabletTracking">
-     <bool>false</bool>
-    </property>
    </widget>
   </widget>
   <widget class="QMenuBar" name="menubar">
@@ -61,7 +37,7 @@
      <x>0</x>
      <y>0</y>
      <width>800</width>
-     <height>21</height>
+     <height>23</height>
     </rect>
    </property>
    <widget class="QMenu" name="menu">
@@ -74,7 +50,6 @@
     <addaction name="action_saveas"/>
     <addaction name="separator"/>
     <addaction name="action_exit"/>
-    <addaction name="actionabout_mu"/>
    </widget>
    <widget class="QMenu" name="menu_2">
     <property name="title">
@@ -105,32 +80,8 @@
   </widget>
   <widget class="QStatusBar" name="statusbar"/>
   <widget class="QToolBar" name="toolBar">
-   <property name="enabled">
-    <bool>true</bool>
-   </property>
-   <property name="mouseTracking">
-    <bool>true</bool>
-   </property>
-   <property name="tabletTracking">
-    <bool>false</bool>
-   </property>
-   <property name="acceptDrops">
-    <bool>false</bool>
-   </property>
    <property name="windowTitle">
     <string>toolBar</string>
-   </property>
-   <property name="autoFillBackground">
-    <bool>false</bool>
-   </property>
-   <property name="movable">
-    <bool>false</bool>
-   </property>
-   <property name="toolButtonStyle">
-    <enum>Qt::ToolButtonTextOnly</enum>
-   </property>
-   <property name="floatable">
-    <bool>true</bool>
    </property>
    <attribute name="toolBarArea">
     <enum>TopToolBarArea</enum>
@@ -138,9 +89,9 @@
    <attribute name="toolBarBreak">
     <bool>false</bool>
    </attribute>
+   <addaction name="action_new"/>
    <addaction name="action_open"/>
    <addaction name="action_save"/>
-   <addaction name="action_new"/>
    <addaction name="action_saveas"/>
    <addaction name="separator"/>
    <addaction name="action_undo"/>
@@ -154,34 +105,14 @@
    <addaction name="action_replay"/>
   </widget>
   <action name="action_new">
-   <property name="checkable">
-    <bool>false</bool>
-   </property>
-   <property name="enabled">
-    <bool>true</bool>
-   </property>
-   <property name="icon">
-    <iconset resource="res.qrc">
-     <normaloff>:/actions/filenew.png</normaloff>:/actions/filenew.png</iconset>
-   </property>
    <property name="text">
     <string>新建</string>
    </property>
    <property name="shortcut">
     <string>Ctrl+N</string>
    </property>
-   <property name="iconVisibleInMenu">
-    <bool>true</bool>
-   </property>
   </action>
   <action name="action_open">
-   <property name="enabled">
-    <bool>true</bool>
-   </property>
-   <property name="icon">
-    <iconset resource="res.qrc">
-     <normaloff>:/actions/document-open.png</normaloff>:/actions/document-open.png</iconset>
-   </property>
    <property name="text">
     <string>打开</string>
    </property>
@@ -190,10 +121,6 @@
    </property>
   </action>
   <action name="action_undo">
-   <property name="icon">
-    <iconset resource="res.qrc">
-     <normaloff>:/actions/edit-undo.png</normaloff>:/actions/edit-undo.png</iconset>
-   </property>
    <property name="text">
     <string>撤销</string>
    </property>
@@ -202,13 +129,6 @@
    </property>
   </action>
   <action name="action_save">
-   <property name="enabled">
-    <bool>true</bool>
-   </property>
-   <property name="icon">
-    <iconset resource="res.qrc">
-     <normaloff>:/actions/filesaveas.png</normaloff>:/actions/filesaveas.png</iconset>
-   </property>
    <property name="text">
     <string>保存</string>
    </property>
@@ -217,10 +137,6 @@
    </property>
   </action>
   <action name="action_saveas">
-   <property name="icon">
-    <iconset resource="res.qrc">
-     <normaloff>:/actions/gtk-save.png</normaloff>:/actions/gtk-save.png</iconset>
-   </property>
    <property name="text">
     <string>另存为</string>
    </property>
@@ -229,10 +145,6 @@
    </property>
   </action>
   <action name="action_exit">
-   <property name="icon">
-    <iconset resource="res.qrc">
-     <normaloff>:/actions/application-exit.png</normaloff>:/actions/application-exit.png</iconset>
-   </property>
    <property name="text">
     <string>退出</string>
    </property>
@@ -302,18 +214,8 @@
    <property name="text">
     <string>取消撤销</string>
    </property>
-   <property name="menuRole">
-    <enum>QAction::AboutQtRole</enum>
-   </property>
-  </action>
-  <action name="actionabout_mu">
-   <property name="text">
-    <string>about mu</string>
-   </property>
   </action>
  </widget>
- <resources>
-  <include location="res.qrc"/>
- </resources>
+ <resources/>
  <connections/>
 </ui>

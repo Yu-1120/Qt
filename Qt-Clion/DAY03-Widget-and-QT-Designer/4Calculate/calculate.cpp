@@ -201,7 +201,6 @@ void Calculate::on_pushButton_equ_clicked()
                 ui->lcdNumber->display("Err");
                 return;
             }
-
             num = temp/num;
             break;
     }

@@ -1,0 +1,10 @@
+"D:\CLion\CLion 2022.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/CLion/CLion 2022.1/bin/ninja/win/ninja.exe" -G Ninja -S C:\Users\11868\Documents\GitHub\Qt\Qt-Clion\DAY4\mytest -B C:\Users\11868\Documents\GitHub\Qt\Qt-Clion\DAY4\mytest\cmake-build-debug
+-- The CXX compiler identification is GNU 11.2.0
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: D:/CLion/CLion 2022.1/bin/mingw/bin/g++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY4/mytest/cmake-build-debug

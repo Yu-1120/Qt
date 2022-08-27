@@ -1,0 +1,11 @@
+# ninja log v5
+6	93	0	CMakeFiles/mytest_autogen	34ee04af243e3691
+6	93	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY13/3MySerial/cmake-build-debug/mytest_autogen/mocs_compilation.cpp	34ee04af243e3691
+568	2262	6833091985600271	CMakeFiles/mytest.dir/mytest_autogen/mocs_compilation.cpp.obj	635e9e65ea981c07
+6	93	0	mytest_autogen/mocs_compilation.cpp	34ee04af243e3691
+6	93	0	mytest_autogen/include/ui_myserial.h	34ee04af243e3691
+6	93	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY13/3MySerial/cmake-build-debug/CMakeFiles/mytest_autogen	34ee04af243e3691
+6	93	0	C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY13/3MySerial/cmake-build-debug/mytest_autogen/include/ui_myserial.h	34ee04af243e3691
+578	2439	6833091987395318	CMakeFiles/mytest.dir/main.cpp.obj	5e3d694a83e60015
+587	2874	6833091991753443	CMakeFiles/mytest.dir/myserial.cpp.obj	d7ac558aac1593ab
+2	403	6833092981927157	build.ninja	6bad9eaeea6a6704
