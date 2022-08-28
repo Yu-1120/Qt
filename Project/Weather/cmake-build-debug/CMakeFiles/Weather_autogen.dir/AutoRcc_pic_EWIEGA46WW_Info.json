@@ -1,0 +1,26 @@
+{
+	"BUILD_DIR" : "C:/Users/11868/Documents/GitHub/Qt/Project/Weather/cmake-build-debug/Weather_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/11868/Documents/GitHub/Qt/Project/Weather/cmake-build-debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/11868/Documents/GitHub/Qt/Project/Weather/cmake-build-debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/11868/Documents/GitHub/Qt/Project/Weather",
+	"CMAKE_SOURCE_DIR" : "C:/Users/11868/Documents/GitHub/Qt/Project/Weather",
+	"INCLUDE_DIR" : "C:/Users/11868/Documents/GitHub/Qt/Project/Weather/cmake-build-debug/Weather_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/11868/Documents/GitHub/Qt/Project/Weather/res/pic/all.png",
+		"C:/Users/11868/Documents/GitHub/Qt/Project/Weather/res/pic/cloudy.png",
+		"C:/Users/11868/Documents/GitHub/Qt/Project/Weather/res/pic/day-rain.png",
+		"C:/Users/11868/Documents/GitHub/Qt/Project/Weather/res/pic/day-sun.png",
+		"C:/Users/11868/Documents/GitHub/Qt/Project/Weather/res/pic/day-snow.png"
+	],
+	"LOCK_FILE" : "C:/Users/11868/Documents/GitHub/Qt/Project/Weather/cmake-build-debug/CMakeFiles/Weather_autogen.dir/AutoRcc_pic_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "pic" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_pic.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/Qt5.14.2/5.14.2/mingw73_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/11868/Documents/GitHub/Qt/Project/Weather/cmake-build-debug/CMakeFiles/Weather_autogen.dir/AutoRcc_pic_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/11868/Documents/GitHub/Qt/Project/Weather/pic.qrc",
+	"VERBOSITY" : 0
+}

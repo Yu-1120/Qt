@@ -29,30 +29,20 @@ find_package(Qt5 COMPONENTS Widgets REQUIRED)
 if (ANDROID)
     add_library(mytest SHARED
             main.cpp
-            find.cpp
-            find.h
-            find.ui
-            mytext.cpp
-            mytext.ui
-            mytext.h
-            replace.cpp
-            replace.h
-            replace.ui
-            qrc.qrc
+            sqlite3.c
+            sqlite3.h
+            studb.cpp
+            studb.h
+            studb.ui
             )
 else ()
     add_executable(mytest
             main.cpp
-            find.cpp
-            find.h
-            find.ui
-            mytext.cpp
-            mytext.ui
-            mytext.h
-            replace.cpp
-            replace.h
-            replace.ui
-            qrc.qrc
+            sqlite3.c
+            sqlite3.h
+            studb.cpp
+            studb.h
+            studb.ui
             )
 endif ()
 

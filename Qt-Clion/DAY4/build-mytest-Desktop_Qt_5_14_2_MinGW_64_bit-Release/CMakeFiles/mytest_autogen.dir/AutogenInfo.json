@@ -1,0 +1,159 @@
+{
+	"BUILD_DIR" : "C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY4/build-mytest-Desktop_Qt_5_14_2_MinGW_64_bit-Release/mytest_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY4/build-mytest-Desktop_Qt_5_14_2_MinGW_64_bit-Release",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY4/build-mytest-Desktop_Qt_5_14_2_MinGW_64_bit-Release",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY7/3xinzhiGetWeather",
+	"CMAKE_EXECUTABLE" : "D:/CMake/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY7/3xinzhiGetWeather/CMakeLists.txt",
+		"C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY4/build-mytest-Desktop_Qt_5_14_2_MinGW_64_bit-Release/CMakeFiles/3.24.0-rc3/CMakeSystem.cmake",
+		"D:/CMake/share/cmake-3.24/Modules/CMakeSystemSpecificInitialize.cmake",
+		"C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY4/build-mytest-Desktop_Qt_5_14_2_MinGW_64_bit-Release/CMakeFiles/3.24.0-rc3/CMakeCXXCompiler.cmake",
+		"D:/CMake/share/cmake-3.24/Modules/CMakeSystemSpecificInformation.cmake",
+		"D:/CMake/share/cmake-3.24/Modules/CMakeGenericSystem.cmake",
+		"D:/CMake/share/cmake-3.24/Modules/CMakeInitializeConfigs.cmake",
+		"D:/CMake/share/cmake-3.24/Modules/Platform/Windows.cmake",
+		"D:/CMake/share/cmake-3.24/Modules/Platform/WindowsPaths.cmake",
+		"D:/CMake/share/cmake-3.24/Modules/CMakeFindCodeBlocks.cmake",
+		"D:/CMake/share/cmake-3.24/Modules/CMakeExtraGeneratorDetermineCompilerMacrosAndIncludeDirs.cmake",
+		"D:/CMake/share/cmake-3.24/Modules/ProcessorCount.cmake",
+		"D:/CMake/share/cmake-3.24/Modules/CMakeCXXInformation.cmake",
+		"D:/CMake/share/cmake-3.24/Modules/CMakeLanguageInformation.cmake",
+		"D:/CMake/share/cmake-3.24/Modules/Compiler/GNU-CXX.cmake",
+		"D:/CMake/share/cmake-3.24/Modules/Compiler/GNU.cmake",
+		"D:/CMake/share/cmake-3.24/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
+		"D:/CMake/share/cmake-3.24/Modules/Platform/Windows-GNU-CXX.cmake",
+		"D:/CMake/share/cmake-3.24/Modules/Platform/Windows-GNU.cmake",
+		"C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY4/build-mytest-Desktop_Qt_5_14_2_MinGW_64_bit-Release/CMakeFiles/3.24.0-rc3/CMakeRCCompiler.cmake",
+		"D:/CMake/share/cmake-3.24/Modules/CMakeRCInformation.cmake",
+		"D:/CMake/share/cmake-3.24/Modules/Platform/Windows-windres.cmake",
+		"D:/CMake/share/cmake-3.24/Modules/Platform/Windows-GNU-CXX-ABI.cmake",
+		"D:/CMake/share/cmake-3.24/Modules/CMakeCommonLanguageInclude.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5/Qt5Config.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5/Qt5ModuleLocation.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Core/Qt5CoreMacros.cmake",
+		"D:/CMake/share/cmake-3.24/Modules/CMakeParseArguments.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgIconPlugin.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgPlugin.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsDirect2DIntegrationPlugin.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsIntegrationPlugin.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Widgets/Qt5Widgets_QWindowsVistaStylePlugin.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake",
+		"D:/CMake/share/cmake-3.24/Modules/CMakeParseArguments.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Network/Qt5NetworkConfigVersion.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Network/Qt5NetworkConfig.cmake",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Network/Qt5Network_QGenericEnginePlugin.cmake"
+	],
+	"CMAKE_SOURCE_DIR" : "C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY7/3xinzhiGetWeather",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY7/3xinzhiGetWeather/getweather.h",
+			"MU",
+			"EWIEGA46WW/moc_getweather.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY4/build-mytest-Desktop_Qt_5_14_2_MinGW_64_bit-Release/mytest_autogen/include",
+	"MOC_COMPILATION_FILE" : "C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY4/build-mytest-Desktop_Qt_5_14_2_MinGW_64_bit-Release/mytest_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_NETWORK_LIB",
+		"QT_NO_DEBUG",
+		"QT_WIDGETS_LIB"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY4/build-mytest-Desktop_Qt_5_14_2_MinGW_64_bit-Release",
+		"C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY7/3xinzhiGetWeather",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/include",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/include/QtGui",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/include/QtANGLE",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/include/QtCore",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/mkspecs/win32-g++",
+		"C:/Qt/Qt5.14.2/5.14.2/mingw73_64/include/QtNetwork",
+		"C:/Qt/Qt5.14.2/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++",
+		"C:/Qt/Qt5.14.2/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32",
+		"C:/Qt/Qt5.14.2/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward",
+		"C:/Qt/Qt5.14.2/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include",
+		"C:/Qt/Qt5.14.2/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed",
+		"C:/Qt/Qt5.14.2/Tools/mingw730_64/x86_64-w64-mingw32/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"C:/Qt/Qt5.14.2/Tools/mingw730_64/bin/g++.exe",
+		"-dM",
+		"-E",
+		"-c",
+		"D:/CMake/share/cmake-3.24/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY4/build-mytest-Desktop_Qt_5_14_2_MinGW_64_bit-Release/mytest_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY4/build-mytest-Desktop_Qt_5_14_2_MinGW_64_bit-Release/CMakeFiles/mytest_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "C:/Qt/Qt5.14.2/5.14.2/mingw73_64/bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "C:/Qt/Qt5.14.2/5.14.2/mingw73_64/bin/uic.exe",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 14,
+	"SETTINGS_FILE" : "C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY4/build-mytest-Desktop_Qt_5_14_2_MinGW_64_bit-Release/CMakeFiles/mytest_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY7/3xinzhiGetWeather/getweather.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/DAY7/3xinzhiGetWeather/main.cpp",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}
