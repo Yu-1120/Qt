@@ -1,0 +1,4 @@
+C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/GitGO/cmake-build-debug/CMakeFiles/GITGO.dir
+C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/GitGO/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/GitGO/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/11868/Documents/GitHub/Qt/Qt-Clion/GitGO/cmake-build-debug/CMakeFiles/GITGO_autogen.dir
