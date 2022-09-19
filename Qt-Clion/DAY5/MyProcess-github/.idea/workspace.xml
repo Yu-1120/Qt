@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated />
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6611f845-932e-405a-b2af-2ed72873a704" name="变更" comment="">
+      <change beforePath="$PROJECT_DIR$/../1ShowPic/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1ShowPic/CMakeLists.txt.user" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1ShowPic/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1ShowPic/qrc.qrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1ShowPic/showpic.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1ShowPic/showpic.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1ShowPic/showpic.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/.idea/2MyText.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/.idea/saveactions_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/CMakeLists.txt.user" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/address-book-new.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/application-exit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/appointment-new.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/appointment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/bookmark-new.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/bookmark_add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/bookmarks_list_add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/bottom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/call-start.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/call-stop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/centrejust.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/contact-new.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/document-new.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/document-open-recent.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/document-open.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/document-page-setup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/document-print-preview.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/document-print.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/document-properties.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/document-revert.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/document-save-as.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/document-save.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/document-send.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/edit-clear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/edit-copy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/edit-cut.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/edit-delete.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/edit-find-replace.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/edit-find.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/edit-paste.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/edit-redo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/edit-select-all.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/edit-undo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/editclear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/editcopy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/editcut.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/editdelete.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/editpaste.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/exit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/filefind.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/filenew.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/fileopen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/fileprint.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/filequickprint.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/filesave.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/filesaveas.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/find.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/finish.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/folder-new.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/folder_new.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/format-indent-less.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/format-indent-more.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/format-justify-center.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/format-justify-fill.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/format-justify-left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/format-justify-right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/format-text-bold.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/format-text-direction-ltr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/format-text-direction-rtl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/format-text-italic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/format-text-strikethrough.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/format-text-underline.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/forward.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gnome-lockscreen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gnome-logout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gnome-run.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gnome-searchtool.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gnome-session-logout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gnome-shutdown.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gnome-stock-mail-fwd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gnome-stock-mail-new.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gnome-stock-mail-rpl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gnome-stock-mail-snd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gnome-stock-text-indent.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gnome-stock-text-unindent.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/go-bottom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/go-down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/go-first.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/go-home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/go-jump.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/go-last.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/go-next.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/go-previous.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/go-top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/go-up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gohome.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-about.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-bold.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-cancel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-clear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-copy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-cut.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-delete.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-edit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-execute.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-find-and-replace.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-find.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-fullscreen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-go-back-ltr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-go-back-rtl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-go-down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-go-forward-ltr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-go-forward-rtl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-go-up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-goto-bottom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-goto-first-ltr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-goto-first-rtl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-goto-last-ltr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-goto-last-rtl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-goto-top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-help.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-indent-ltr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-indent-rtl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-italic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-jump-to-ltr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-jump-to-rtl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-justify-center.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-justify-fill.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-justify-left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-justify-right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-leave-fullscreen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-media-forward-ltr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-media-forward-rtl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-media-next-ltr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-media-next-rtl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-media-pause.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-media-play-ltr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-media-previous-ltr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-media-previous-rtl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-media-record.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-media-rewind-ltr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-media-rewind-rtl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-media-stop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-new.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-open.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-paste.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-print-preview.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-print.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-properties.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-quit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-redo-ltr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-refresh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-remove.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-revert-to-saved-ltr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-revert-to-saved-rtl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-save-as.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-save.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-select-all.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-sort-ascending.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-sort-descending.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-spell-check.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-stop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-strikethrough.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-underline.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-undo-ltr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-unindent-ltr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-unindent-rtl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-zoom-100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-zoom-fit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-zoom-in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/gtk-zoom-out.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/help-about.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/help-contents.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/help-faq.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/help.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/insert-image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/insert-link.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/insert-object.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/insert-text.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/kfind.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/kfm_home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/leftjust.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/list-add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/list-remove.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/lock.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/mail-forward.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/mail-mark-important.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/mail-mark-junk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/mail-mark-notjunk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/mail-mark-read.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/mail-mark-unread.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/mail-message-new.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/mail-reply-all.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/mail-reply-sender.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/mail-send-receive.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/mail-send.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/mail_forward.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/mail_new.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/mail_reply.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/mail_replyall.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/mail_send.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/mail_spam.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/media-eject.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/media-playback-pause.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/media-playback-start.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/media-playback-stop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/media-record.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/media-seek-backward.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/media-seek-forward.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/media-skip-backward.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/media-skip-forward.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/next.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/object-flip-horizontal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/object-flip-vertical.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/object-rotate-left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/object-rotate-right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/player_eject.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/player_end.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/player_fwd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/player_pause.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/player_play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/player_record.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/player_rew.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/player_start.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/player_stop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/previous.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/process-stop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/redhat-home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/redo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/reload.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/reload3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/reload_all_tabs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/reload_page.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/remove.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/revert.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/rightjust.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/start.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_about.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_add-bookmark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_bottom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_copy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_cut.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_delete.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_file-properites.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_first.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_fullscreen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_help-add-bookmark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_help.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_last.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_leave-fullscreen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_mail-compose.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_mail-forward.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_mail-reply-to-all.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_mail-reply.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_mail-send-receive.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_mail-send.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_media-fwd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_media-next.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_media-pause.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_media-play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_media-prev.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_media-rec.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_media-rew.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_media-stop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_new-address-book.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_new-appointment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_new-bcard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_new-dir.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_new-tab.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_new-text.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_new-window.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_paste.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_print-preview.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_print-setup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_print.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_properties.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_redo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_refresh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_save-as.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_save.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_search-and-replace.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_select-all.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_spam.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_spellcheck.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_stop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_text-strikethrough.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_text_bold.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_text_center.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_text_indent.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_text_italic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_text_justify.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_text_left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_text_right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_text_underlined.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_text_unindent.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_undo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_zoom-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_zoom-in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_zoom-out.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stock_zoom-page.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/stop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/system-lock-screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/system-log-out.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/system-run.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/system-search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/system-shutdown.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/tab-new.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/tab_new.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/text_bold.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/text_italic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/text_strike.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/text_under.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/tools-check-spelling.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/undo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/view-fullscreen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/view-refresh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/view-restore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/view-sort-ascending.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/view-sort-descending.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/viewmag+.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/viewmag-.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/viewmag1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/viewmagfit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/window-close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/window-new.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/window_fullscreen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/window_new.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/window_nofullscreen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/xfce-system-exit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/xfce-system-lock.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/zoom-best-fit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/zoom-fit-best.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/zoom-in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/zoom-original.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/actions/zoom-out.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/cmake-build-debug/.cmake/api/v1/reply/cache-v2-2e63f1866188fed79a5c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-c0b543aa7dfef38ab7e7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-1222d884a4b2c265e5dc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/cmake-build-debug/.cmake/api/v1/reply/index-2022-08-27T12-06-58-0864.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/cmake-build-debug/.cmake/api/v1/reply/target-mytest-Debug-7414849009a8812d6faf.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/cmake-build-debug/.cmake/api/v1/reply/target-mytest_autogen-Debug-df701f81044d873a4649.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-2b1597caad5e217e7971.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/cmake-build-debug/CMakeFiles/3.22.3/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/cmake-build-debug/CMakeFiles/3.22.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/cmake-build-debug/CMakeFiles/3.22.3/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/cmake-build-debug/CMakeFiles/3.22.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/cmake-build-debug/CMakeFiles/clean_additional.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/cmake-build-debug/CMakeFiles/mytest_autogen.dir/AutoRcc_qrc_EWIEGA46WW_Info.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/cmake-build-debug/CMakeFiles/mytest_autogen.dir/AutoRcc_qrc_EWIEGA46WW_Lock.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/cmake-build-debug/CMakeFiles/mytest_autogen.dir/AutoRcc_qrc_EWIEGA46WW_Used.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/cmake-build-debug/CMakeFiles/mytest_autogen.dir/AutogenInfo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/cmake-build-debug/CMakeFiles/mytest_autogen.dir/AutogenUsed.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/cmake-build-debug/CMakeFiles/mytest_autogen.dir/ParseCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/cmake-build-debug/mytest_autogen/EWIEGA46WW/moc_find.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/cmake-build-debug/mytest_autogen/EWIEGA46WW/moc_mytext.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/cmake-build-debug/mytest_autogen/EWIEGA46WW/moc_replace.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/cmake-build-debug/mytest_autogen/EWIEGA46WW/qrc_qrc.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/cmake-build-debug/mytest_autogen/include/ui_find.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/cmake-build-debug/mytest_autogen/include/ui_mytext.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/cmake-build-debug/mytest_autogen/include/ui_replace.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/cmake-build-debug/mytest_autogen/moc_predefs.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/cmake-build-debug/mytest_autogen/mocs_compilation.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/find.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/find.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/find.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/mytext.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/mytext.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/mytext.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/qrc.qrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/replace.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/replace.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2MyText/replace.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3GetTime/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3GetTime/CMakeLists.txt.user" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3GetTime/gettime.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3GetTime/gettime.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3GetTime/gettime.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3GetTime/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4MyTimer/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4MyTimer/CMakeLists.txt.user" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4MyTimer/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4MyTimer/mytimer.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4MyTimer/mytimer.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4MyTimer/mytimer.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5SecTimer/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5SecTimer/CMakeLists.txt.user" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5SecTimer/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5SecTimer/sectimer.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5SecTimer/sectimer.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5SecTimer/sectimer.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6MyProcess/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6MyProcess/CMakeLists.txt.user" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6MyProcess/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6MyProcess/myprocess.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6MyProcess/myprocess.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6MyProcess/myprocess.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6MyProcess/newthread.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6MyProcess/newthread.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7MyThread/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7MyThread/CMakeLists.txt.user" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7MyThread/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7MyThread/mythread.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7MyThread/mythread.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7MyThread/mythread.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7MyThread/newthread.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7MyThread/newthread.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8FileDownload/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8FileDownload/CMakeLists.txt.user" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8FileDownload/filedownload.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8FileDownload/filedownload.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8FileDownload/filedownload.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8FileDownload/filedownloadthread.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8FileDownload/filedownloadthread.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8FileDownload/main.cpp" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="2.3" />
+  </component>
+  <component name="ProjectId" id="2Evw0UOMESLORFpy3T9PbPR0vJL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="6611f845-932e-405a-b2af-2ed72873a704" name="变更" comment="" />
+      <created>1663489144905</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663489144905</updated>
+      <workItem from="1663489146311" duration="668000" />
+      <workItem from="1663489855959" duration="757000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

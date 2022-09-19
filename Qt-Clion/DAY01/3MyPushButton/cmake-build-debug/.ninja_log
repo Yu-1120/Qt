@@ -1,0 +1,20 @@
+# ninja log v5
+92	1784	6822678977573033	CMakeFiles/untitled.dir/mypushbutton.cpp.obj	51f4ec659df1ec91
+6	92	0	CMakeFiles/untitled_autogen	3749f71b4e94913d
+714	2363	6822674096102825	CMakeFiles/untitled.dir/main.cpp.obj	d615fa38b3316ab6
+6	92	0	untitled_autogen/mocs_compilation.cpp	3749f71b4e94913d
+6	92	0	untitled_autogen/include/ui_mainwindow.h	3749f71b4e94913d
+707	2278	6822674095260643	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.obj	92a11d21fbd4c389
+1370	3942	6822673271918930	CMakeFiles/untitled.dir/mainwindow.cpp.obj	1806d4f766a9fba4
+1784	2009	6822678979798951	untitled.exe	648da4197735f8bd
+9	2566	0	CMakeFiles/untitled_autogen	9bc09409f250adef
+9	2566	0	untitled_autogen/mocs_compilation.cpp	9bc09409f250adef
+9	2566	0	untitled_autogen/include/ui_mainwindow.h	9bc09409f250adef
+9	2566	0	E:/GitHub/Qt/Qt-Clion/DAY01-signals-and-slots/3MyPushButton/cmake-build-debug/CMakeFiles/untitled_autogen	9bc09409f250adef
+9	2566	0	E:/GitHub/Qt/Qt-Clion/DAY01-signals-and-slots/3MyPushButton/cmake-build-debug/untitled_autogen/mocs_compilation.cpp	9bc09409f250adef
+9	2566	0	E:/GitHub/Qt/Qt-Clion/DAY01-signals-and-slots/3MyPushButton/cmake-build-debug/untitled_autogen/include/ui_mainwindow.h	9bc09409f250adef
+2567	6582	6852167998257200	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.obj	23170f05eedd59b
+2592	6629	6852167998709138	CMakeFiles/untitled.dir/mainwindow.cpp.obj	fc4e38a67ace444b
+2606	6640	6852167998817222	CMakeFiles/untitled.dir/mypushbutton.cpp.obj	7a94e99c09a5e7db
+2579	6649	6852167998919482	CMakeFiles/untitled.dir/main.cpp.obj	e136d862943080c6
+6650	7090	6852168003297375	untitled.exe	be993a3507769837

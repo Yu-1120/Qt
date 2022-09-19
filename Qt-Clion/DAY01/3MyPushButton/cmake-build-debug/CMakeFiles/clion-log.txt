@@ -1,0 +1,10 @@
+D:\CLion\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=D:/CLion/bin/ninja/win/ninja.exe -G Ninja -S E:\GitHub\Qt\Qt-Clion\DAY01-signals-and-slots\3MyPushButton -B E:\GitHub\Qt\Qt-Clion\DAY01-signals-and-slots\3MyPushButton\cmake-build-debug
+-- The CXX compiler identification is GNU 11.2.0
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: D:/CLion/bin/mingw/bin/g++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/GitHub/Qt/Qt-Clion/DAY01-signals-and-slots/3MyPushButton/cmake-build-debug
