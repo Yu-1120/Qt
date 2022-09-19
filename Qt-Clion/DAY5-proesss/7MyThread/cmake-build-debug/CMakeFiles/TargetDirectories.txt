@@ -1,0 +1,4 @@
+E:/GitHub/Qt/Qt-Clion/DAY5-proesss/7MyThread/cmake-build-debug/CMakeFiles/mytest.dir
+E:/GitHub/Qt/Qt-Clion/DAY5-proesss/7MyThread/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/GitHub/Qt/Qt-Clion/DAY5-proesss/7MyThread/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+E:/GitHub/Qt/Qt-Clion/DAY5-proesss/7MyThread/cmake-build-debug/CMakeFiles/mytest_autogen.dir

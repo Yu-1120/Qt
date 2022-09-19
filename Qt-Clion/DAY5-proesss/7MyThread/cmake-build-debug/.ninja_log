@@ -1,0 +1,12 @@
+# ninja log v5
+2	1056	0	CMakeFiles/mytest_autogen	6f7365b7375e68de
+2	1056	0	mytest_autogen/mocs_compilation.cpp	6f7365b7375e68de
+2	1056	0	mytest_autogen/include/ui_mythread.h	6f7365b7375e68de
+2	1056	0	E:/GitHub/Qt/Qt-Clion/DAY5-proesss/7MyThread/cmake-build-debug/CMakeFiles/mytest_autogen	6f7365b7375e68de
+2	1056	0	E:/GitHub/Qt/Qt-Clion/DAY5-proesss/7MyThread/cmake-build-debug/mytest_autogen/mocs_compilation.cpp	6f7365b7375e68de
+2	1056	0	E:/GitHub/Qt/Qt-Clion/DAY5-proesss/7MyThread/cmake-build-debug/mytest_autogen/include/ui_mythread.h	6f7365b7375e68de
+1090	4163	6852748333065862	CMakeFiles/mytest.dir/newthread.cpp.obj	b1728770e3ce5d37
+1057	4490	6852748336374452	CMakeFiles/mytest.dir/mytest_autogen/mocs_compilation.cpp.obj	ca92fc763a70deb2
+1065	4649	6852748337986596	CMakeFiles/mytest.dir/main.cpp.obj	d966f165035c8261
+1077	4682	6852748338317422	CMakeFiles/mytest.dir/mythread.cpp.obj	9b60ebab0999f5e9
+4683	5382	6852748344731852	mytest.exe	b672d34d9756f2e9

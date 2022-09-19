@@ -31,28 +31,21 @@ if (ANDROID)
             main.cpp
             find.cpp
             find.h
-            find.ui
-            mytext.cpp
-            mytext.ui
-            mytext.h
-            replace.cpp
-            replace.h
-            replace.ui
-            qrc.qrc
+            main.cpp
+            mythread.cpp
+            mythread.ui
+            mythread.h
+            newthread.h
+            newthread.cpp
             )
 else ()
     add_executable(mytest
             main.cpp
-            find.cpp
-            find.h
-            find.ui
-            mytext.cpp
-            mytext.ui
-            mytext.h
-            replace.cpp
-            replace.h
-            replace.ui
-            qrc.qrc
+           mythread.cpp
+            mythread.ui
+            mythread.h
+            newthread.h
+            newthread.cpp
             )
 endif ()
 
