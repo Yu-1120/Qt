@@ -1,0 +1,4 @@
+E:/GitHub/Qt/SerialDemo/cmake-build-debug/CMakeFiles/SerialDemo.dir
+E:/GitHub/Qt/SerialDemo/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/GitHub/Qt/SerialDemo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+E:/GitHub/Qt/SerialDemo/cmake-build-debug/CMakeFiles/SerialDemo_autogen.dir

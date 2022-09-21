@@ -1,0 +1,14 @@
+# ninja log v5
+2	737	0	E:/GitHub/Qt/SerialDemo/cmake-build-debug/SerialDemo_autogen/mocs_compilation.cpp	e04507bcb52ecfd8
+2	737	0	CMakeFiles/SerialDemo_autogen	e04507bcb52ecfd8
+2	737	0	SerialDemo_autogen/include/ui_sericaltest.h	e04507bcb52ecfd8
+2	737	0	SerialDemo_autogen/mocs_compilation.cpp	e04507bcb52ecfd8
+2	737	0	SerialDemo_autogen/include/ui_enterform.h	e04507bcb52ecfd8
+2	737	0	E:/GitHub/Qt/SerialDemo/cmake-build-debug/CMakeFiles/SerialDemo_autogen	e04507bcb52ecfd8
+2	737	0	E:/GitHub/Qt/SerialDemo/cmake-build-debug/SerialDemo_autogen/include/ui_enterform.h	e04507bcb52ecfd8
+2	737	0	E:/GitHub/Qt/SerialDemo/cmake-build-debug/SerialDemo_autogen/include/ui_sericaltest.h	e04507bcb52ecfd8
+737	5882	6854303763445377	CMakeFiles/SerialDemo.dir/SerialDemo_autogen/mocs_compilation.cpp.obj	4e7c64aace9289d6
+744	5910	6854303763323681	CMakeFiles/SerialDemo.dir/main.cpp.obj	9b9ed3c9fe5f5b91
+762	5927	6854303764063700	CMakeFiles/SerialDemo.dir/enterform.cpp.obj	50d17296e46e21fd
+772	6331	6854303768133635	CMakeFiles/SerialDemo.dir/sericaltest.cpp.obj	972881ce96978dc9
+1	394	6854309409814111	build.ninja	c9cf4157550d15c4
