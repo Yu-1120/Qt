@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="1-QMLTest"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\Qt\;CMake Files\Qt\Qt5.14.2\;CMake Files\Qt\Qt5.14.2\5.14.2\;CMake Files\Qt\Qt5.14.2\5.14.2\mingw73_64\;CMake Files\Qt\Qt5.14.2\5.14.2\mingw73_64\lib\;CMake Files\Qt\Qt5.14.2\5.14.2\mingw73_64\lib\cmake\;CMake Files\Qt\Qt5.14.2\5.14.2\mingw73_64\lib\cmake\Qt5\;CMake Files\Qt\Qt5.14.2\5.14.2\mingw73_64\lib\cmake\Qt5Core\;CMake Files\Qt\Qt5.14.2\5.14.2\mingw73_64\lib\cmake\Qt5Quick\;CMake Files\Qt\Qt5.14.2\5.14.2\mingw73_64\lib\cmake\Qt5QmlModels\;CMake Files\Qt\Qt5.14.2\5.14.2\mingw73_64\lib\cmake\Qt5Qml\;CMake Files\Qt\Qt5.14.2\5.14.2\mingw73_64\lib\cmake\Qt5Network\;CMake Files\Qt\Qt5.14.2\5.14.2\mingw73_64\lib\cmake\Qt5Gui\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="E:/GitHub/Qt/QML/1-QMLTest"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Qt/Qt5.14.2/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;E:/GitHub/Qt/QML/1-QMLTest/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/Qt/Qt5.14.2/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;E:/GitHub/Qt/QML/1-QMLTest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Qt5.14.2/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;E:/GitHub/Qt/QML/1-QMLTest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Qt5.14.2/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;E:/GitHub/Qt/QML/1-QMLTest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1-QMLTest">
+				<Option output="E:/GitHub/Qt/QML/1-QMLTest/1-QMLTest.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/GitHub/Qt/QML/1-QMLTest"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DQT_QML_DEBUG"/>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add option="-DQT_QUICK_LIB"/>
+					<Add option="-DQT_QMLMODELS_LIB"/>
+					<Add option="-DQT_QML_LIB"/>
+					<Add option="-DQT_NETWORK_LIB"/>
+					<Add option="-DQT_GUI_LIB"/>
+					<Add directory="E:/GitHub/Qt/QML/1-QMLTest"/>
+					<Add directory="E:/GitHub/Qt/QML/1-QMLTest/1-QMLTest_autogen/include"/>
+					<Add directory="C:/Qt/Qt5.14.2/5.14.2/mingw73_64/include"/>
+					<Add directory="C:/Qt/Qt5.14.2/5.14.2/mingw73_64/include/QtCore"/>
+					<Add directory="C:/Qt/Qt5.14.2/5.14.2/mingw73_64/./mkspecs/win32-g++"/>
+					<Add directory="C:/Qt/Qt5.14.2/5.14.2/mingw73_64/include/QtQuick"/>
+					<Add directory="C:/Qt/Qt5.14.2/5.14.2/mingw73_64/include/QtQmlModels"/>
+					<Add directory="C:/Qt/Qt5.14.2/5.14.2/mingw73_64/include/QtQml"/>
+					<Add directory="C:/Qt/Qt5.14.2/5.14.2/mingw73_64/include/QtNetwork"/>
+					<Add directory="C:/Qt/Qt5.14.2/5.14.2/mingw73_64/include/QtGui"/>
+					<Add directory="C:/Qt/Qt5.14.2/5.14.2/mingw73_64/include/QtANGLE"/>
+					<Add directory="C:/Qt/Qt5.14.2/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Qt5.14.2/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Qt5.14.2/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Qt5.14.2/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Qt5.14.2/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Qt5.14.2/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Qt5.14.2/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;E:/GitHub/Qt/QML/1-QMLTest/Makefile&quot;  VERBOSE=1 1-QMLTest"/>
+					<CompileFile command="C:/Qt/Qt5.14.2/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;E:/GitHub/Qt/QML/1-QMLTest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Qt5.14.2/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;E:/GitHub/Qt/QML/1-QMLTest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Qt5.14.2/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;E:/GitHub/Qt/QML/1-QMLTest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1-QMLTest/fast">
+				<Option output="E:/GitHub/Qt/QML/1-QMLTest/1-QMLTest.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/GitHub/Qt/QML/1-QMLTest"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DQT_QML_DEBUG"/>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add option="-DQT_QUICK_LIB"/>
+					<Add option="-DQT_QMLMODELS_LIB"/>
+					<Add option="-DQT_QML_LIB"/>
+					<Add option="-DQT_NETWORK_LIB"/>
+					<Add option="-DQT_GUI_LIB"/>
+					<Add directory="E:/GitHub/Qt/QML/1-QMLTest"/>
+					<Add directory="E:/GitHub/Qt/QML/1-QMLTest/1-QMLTest_autogen/include"/>
+					<Add directory="C:/Qt/Qt5.14.2/5.14.2/mingw73_64/include"/>
+					<Add directory="C:/Qt/Qt5.14.2/5.14.2/mingw73_64/include/QtCore"/>
+					<Add directory="C:/Qt/Qt5.14.2/5.14.2/mingw73_64/./mkspecs/win32-g++"/>
+					<Add directory="C:/Qt/Qt5.14.2/5.14.2/mingw73_64/include/QtQuick"/>
+					<Add directory="C:/Qt/Qt5.14.2/5.14.2/mingw73_64/include/QtQmlModels"/>
+					<Add directory="C:/Qt/Qt5.14.2/5.14.2/mingw73_64/include/QtQml"/>
+					<Add directory="C:/Qt/Qt5.14.2/5.14.2/mingw73_64/include/QtNetwork"/>
+					<Add directory="C:/Qt/Qt5.14.2/5.14.2/mingw73_64/include/QtGui"/>
+					<Add directory="C:/Qt/Qt5.14.2/5.14.2/mingw73_64/include/QtANGLE"/>
+					<Add directory="C:/Qt/Qt5.14.2/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Qt5.14.2/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Qt5.14.2/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Qt5.14.2/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Qt5.14.2/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Qt5.14.2/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Qt5.14.2/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;E:/GitHub/Qt/QML/1-QMLTest/Makefile&quot;  VERBOSE=1 1-QMLTest/fast"/>
+					<CompileFile command="C:/Qt/Qt5.14.2/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;E:/GitHub/Qt/QML/1-QMLTest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Qt5.14.2/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;E:/GitHub/Qt/QML/1-QMLTest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Qt5.14.2/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;E:/GitHub/Qt/QML/1-QMLTest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="E:/GitHub/Qt/QML/1-QMLTest"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Qt/Qt5.14.2/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;E:/GitHub/Qt/QML/1-QMLTest/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/Qt/Qt5.14.2/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;E:/GitHub/Qt/QML/1-QMLTest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Qt5.14.2/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;E:/GitHub/Qt/QML/1-QMLTest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Qt5.14.2/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;E:/GitHub/Qt/QML/1-QMLTest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="E:/GitHub/Qt/QML/1-QMLTest"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Qt/Qt5.14.2/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;E:/GitHub/Qt/QML/1-QMLTest/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/Qt/Qt5.14.2/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;E:/GitHub/Qt/QML/1-QMLTest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Qt5.14.2/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;E:/GitHub/Qt/QML/1-QMLTest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Qt5.14.2/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;E:/GitHub/Qt/QML/1-QMLTest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1-QMLTest_autogen">
+				<Option working_dir="E:/GitHub/Qt/QML/1-QMLTest"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Qt/Qt5.14.2/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;E:/GitHub/Qt/QML/1-QMLTest/Makefile&quot;  VERBOSE=1 1-QMLTest_autogen"/>
+					<CompileFile command="C:/Qt/Qt5.14.2/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;E:/GitHub/Qt/QML/1-QMLTest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Qt5.14.2/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;E:/GitHub/Qt/QML/1-QMLTest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Qt5.14.2/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;E:/GitHub/Qt/QML/1-QMLTest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="E:/GitHub/Qt/QML/1-QMLTest/1-QMLTest_autogen/EWIEGA46WW/qrc_qml.cpp">
+			<Option target="1-QMLTest"/>
+		</Unit>
+		<Unit filename="E:/GitHub/Qt/QML/1-QMLTest/1-QMLTest_autogen/EWIEGA46WW/qrc_qml.cpp.rule">
+			<Option target="1-QMLTest"/>
+		</Unit>
+		<Unit filename="E:/GitHub/Qt/QML/1-QMLTest/1-QMLTest_autogen/mocs_compilation.cpp">
+			<Option target="1-QMLTest"/>
+		</Unit>
+		<Unit filename="E:/GitHub/Qt/QML/1-QMLTest/main.cpp">
+			<Option target="1-QMLTest"/>
+		</Unit>
+		<Unit filename="E:/GitHub/Qt/QML/1-QMLTest/qml.qrc">
+			<Option target="1-QMLTest"/>
+		</Unit>
+		<Unit filename="E:/GitHub/Qt/QML/1-QMLTest/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="E:/GitHub/Qt/QML/1-QMLTest/qml.qrc">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="E:/GitHub/Qt/QML/1-QMLTest/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5/Qt5Config.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.14.2\5.14.2\mingw73_64\lib\cmake\Qt5\"/>
+		</Unit>
+		<Unit filename="E:/GitHub/Qt/QML/1-QMLTest/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.14.2\5.14.2\mingw73_64\lib\cmake\Qt5\"/>
+		</Unit>
+		<Unit filename="E:/GitHub/Qt/QML/1-QMLTest/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5/Qt5ModuleLocation.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.14.2\5.14.2\mingw73_64\lib\cmake\Qt5\"/>
+		</Unit>
+		<Unit filename="E:/GitHub/Qt/QML/1-QMLTest/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.14.2\5.14.2\mingw73_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="E:/GitHub/Qt/QML/1-QMLTest/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.14.2\5.14.2\mingw73_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="E:/GitHub/Qt/QML/1-QMLTest/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.14.2\5.14.2\mingw73_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="E:/GitHub/Qt/QML/1-QMLTest/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.14.2\5.14.2\mingw73_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="E:/GitHub/Qt/QML/1-QMLTest/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Core/Qt5CoreMacros.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.14.2\5.14.2\mingw73_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="E:/GitHub/Qt/QML/1-QMLTest/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Quick/Qt5QuickConfig.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.14.2\5.14.2\mingw73_64\lib\cmake\Qt5Quick\"/>
+		</Unit>
+		<Unit filename="E:/GitHub/Qt/QML/1-QMLTest/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Quick/Qt5QuickConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.14.2\5.14.2\mingw73_64\lib\cmake\Qt5Quick\"/>
+		</Unit>
+		<Unit filename="E:/GitHub/Qt/QML/1-QMLTest/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5QmlModels/Qt5QmlModelsConfig.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.14.2\5.14.2\mingw73_64\lib\cmake\Qt5QmlModels\"/>
+		</Unit>
+		<Unit filename="E:/GitHub/Qt/QML/1-QMLTest/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5QmlModels/Qt5QmlModelsConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.14.2\5.14.2\mingw73_64\lib\cmake\Qt5QmlModels\"/>
+		</Unit>
+		<Unit filename="E:/GitHub/Qt/QML/1-QMLTest/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Qml/Qt5QmlConfig.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.14.2\5.14.2\mingw73_64\lib\cmake\Qt5Qml\"/>
+		</Unit>
+		<Unit filename="E:/GitHub/Qt/QML/1-QMLTest/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Qml/Qt5QmlConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.14.2\5.14.2\mingw73_64\lib\cmake\Qt5Qml\"/>
+		</Unit>
+		<Unit filename="E:/GitHub/Qt/QML/1-QMLTest/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Qml/Qt5QmlConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.14.2\5.14.2\mingw73_64\lib\cmake\Qt5Qml\"/>
+		</Unit>
+		<Unit filename="E:/GitHub/Qt/QML/1-QMLTest/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Qml/Qt5Qml_QDebugMessageServiceFactory.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.14.2\5.14.2\mingw73_64\lib\cmake\Qt5Qml\"/>
+		</Unit>
+		<Unit filename="E:/GitHub/Qt/QML/1-QMLTest/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Qml/Qt5Qml_QLocalClientConnectionFactory.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.14.2\5.14.2\mingw73_64\lib\cmake\Qt5Qml\"/>
+		</Unit>
+		<Unit filename="E:/GitHub/Qt/QML/1-QMLTest/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Qml/Qt5Qml_QQmlDebugServerFactory.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.14.2\5.14.2\mingw73_64\lib\cmake\Qt5Qml\"/>
+		</Unit>
+		<Unit filename="E:/GitHub/Qt/QML/1-QMLTest/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Qml/Qt5Qml_QQmlDebuggerServiceFactory.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.14.2\5.14.2\mingw73_64\lib\cmake\Qt5Qml\"/>
+		</Unit>
+		<Unit filename="E:/GitHub/Qt/QML/1-QMLTest/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Qml/Qt5Qml_QQmlInspectorServiceFactory.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.14.2\5.14.2\mingw73_64\lib\cmake\Qt5Qml\"/>
+		</Unit>
+		<Unit filename="E:/GitHub/Qt/QML/1-QMLTest/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Qml/Qt5Qml_QQmlNativeDebugConnectorFactory.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.14.2\5.14.2\mingw73_64\lib\cmake\Qt5Qml\"/>
+		</Unit>
+		<Unit filename="E:/GitHub/Qt/QML/1-QMLTest/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Qml/Qt5Qml_QQmlNativeDebugServiceFactory.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.14.2\5.14.2\mingw73_64\lib\cmake\Qt5Qml\"/>
+		</Unit>
+		<Unit filename="E:/GitHub/Qt/QML/1-QMLTest/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Qml/Qt5Qml_QQmlPreviewServiceFactory.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.14.2\5.14.2\mingw73_64\lib\cmake\Qt5Qml\"/>
+		</Unit>
+		<Unit filename="E:/GitHub/Qt/QML/1-QMLTest/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Qml/Qt5Qml_QQmlProfilerServiceFactory.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.14.2\5.14.2\mingw73_64\lib\cmake\Qt5Qml\"/>
+		</Unit>
+		<Unit filename="E:/GitHub/Qt/QML/1-QMLTest/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Qml/Qt5Qml_QQuickProfilerAdapterFactory.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.14.2\5.14.2\mingw73_64\lib\cmake\Qt5Qml\"/>
+		</Unit>
+		<Unit filename="E:/GitHub/Qt/QML/1-QMLTest/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Qml/Qt5Qml_QTcpServerConnectionFactory.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.14.2\5.14.2\mingw73_64\lib\cmake\Qt5Qml\"/>
+		</Unit>
+		<Unit filename="E:/GitHub/Qt/QML/1-QMLTest/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Network/Qt5NetworkConfig.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.14.2\5.14.2\mingw73_64\lib\cmake\Qt5Network\"/>
+		</Unit>
+		<Unit filename="E:/GitHub/Qt/QML/1-QMLTest/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Network/Qt5NetworkConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.14.2\5.14.2\mingw73_64\lib\cmake\Qt5Network\"/>
+		</Unit>
+		<Unit filename="E:/GitHub/Qt/QML/1-QMLTest/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Network/Qt5Network_QGenericEnginePlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.14.2\5.14.2\mingw73_64\lib\cmake\Qt5Network\"/>
+		</Unit>
+		<Unit filename="E:/GitHub/Qt/QML/1-QMLTest/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.14.2\5.14.2\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="E:/GitHub/Qt/QML/1-QMLTest/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.14.2\5.14.2\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="E:/GitHub/Qt/QML/1-QMLTest/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.14.2\5.14.2\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="E:/GitHub/Qt/QML/1-QMLTest/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.14.2\5.14.2\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="E:/GitHub/Qt/QML/1-QMLTest/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.14.2\5.14.2\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="E:/GitHub/Qt/QML/1-QMLTest/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.14.2\5.14.2\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="E:/GitHub/Qt/QML/1-QMLTest/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.14.2\5.14.2\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="E:/GitHub/Qt/QML/1-QMLTest/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.14.2\5.14.2\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="E:/GitHub/Qt/QML/1-QMLTest/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.14.2\5.14.2\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="E:/GitHub/Qt/QML/1-QMLTest/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgIconPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.14.2\5.14.2\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="E:/GitHub/Qt/QML/1-QMLTest/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.14.2\5.14.2\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="E:/GitHub/Qt/QML/1-QMLTest/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.14.2\5.14.2\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="E:/GitHub/Qt/QML/1-QMLTest/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.14.2\5.14.2\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="E:/GitHub/Qt/QML/1-QMLTest/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.14.2\5.14.2\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="E:/GitHub/Qt/QML/1-QMLTest/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.14.2\5.14.2\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="E:/GitHub/Qt/QML/1-QMLTest/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.14.2\5.14.2\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="E:/GitHub/Qt/QML/1-QMLTest/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsDirect2DIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.14.2\5.14.2\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="E:/GitHub/Qt/QML/1-QMLTest/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.14.2\5.14.2\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="E:/GitHub/Qt/QML/1-QMLTest/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.14.2\5.14.2\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

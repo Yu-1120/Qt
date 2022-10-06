@@ -1,0 +1,4 @@
+E:/GitHub/Qt/QML/1-QMLTest/CMakeFiles/1-QMLTest.dir
+E:/GitHub/Qt/QML/1-QMLTest/CMakeFiles/edit_cache.dir
+E:/GitHub/Qt/QML/1-QMLTest/CMakeFiles/rebuild_cache.dir
+E:/GitHub/Qt/QML/1-QMLTest/CMakeFiles/1-QMLTest_autogen.dir

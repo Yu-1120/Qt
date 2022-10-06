@@ -1,0 +1,19 @@
+{
+	"BUILD_DIR" : "E:/GitHub/Qt/QML/1-QMLTest/1-QMLTest_autogen",
+	"CMAKE_BINARY_DIR" : "E:/GitHub/Qt/QML/1-QMLTest",
+	"CMAKE_CURRENT_BINARY_DIR" : "E:/GitHub/Qt/QML/1-QMLTest",
+	"CMAKE_CURRENT_SOURCE_DIR" : "E:/GitHub/Qt/QML/1-QMLTest",
+	"CMAKE_SOURCE_DIR" : "E:/GitHub/Qt/QML/1-QMLTest",
+	"INCLUDE_DIR" : "E:/GitHub/Qt/QML/1-QMLTest/1-QMLTest_autogen/include",
+	"INPUTS" : [ "E:/GitHub/Qt/QML/1-QMLTest/main.qml" ],
+	"LOCK_FILE" : "E:/GitHub/Qt/QML/1-QMLTest/CMakeFiles/1-QMLTest_autogen.dir/AutoRcc_qml_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "qml" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_qml.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/Qt5.14.2/5.14.2/mingw73_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "E:/GitHub/Qt/QML/1-QMLTest/CMakeFiles/1-QMLTest_autogen.dir/AutoRcc_qml_EWIEGA46WW_Used.txt",
+	"SOURCE" : "E:/GitHub/Qt/QML/1-QMLTest/qml.qrc",
+	"VERBOSITY" : 0
+}
