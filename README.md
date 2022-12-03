@@ -37,3 +37,11 @@ DAY05-Qt的时间,定时器,多任务和移植
 DAY06-Qt程序的发布,事件处理和Qt网络socket通信
 
 DAY07-Http的访问
+
+# Qt/Embedded编译与安装
+
+https://blog.csdn.net/KwanSampson/article/details/49897825
+
+https://download.qt.io/archive/qt/
+
+https://download.qt.io/archive/qt/4.4/
